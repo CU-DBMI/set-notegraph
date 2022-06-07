@@ -2,7 +2,7 @@
 id: 8xtpfpwacou8xzvp2rlny6p
 title: Dagger
 desc: ''
-updated: 1654620194000
+updated: 1654620851900
 created: 1654611202381
 presentation:
   width: 800
@@ -47,16 +47,12 @@ graph LR
 Data values and schema together 😮
 <table>
 <tr>
-<td>JSON</td>
-<td>CUE</td>
-</tr>
-<tr>
 <td>
 
 ```json
-
-{
-  // values
+// JSON
+// values
+{ 
   "denver": {
     "name": "Denver",
     "state": "CO",
@@ -70,6 +66,7 @@ Data values and schema together 😮
 <td>
 
 ```json
+// CUE
 // values, schema, and more
 bigCity: {
     // type
