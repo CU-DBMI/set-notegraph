@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Onboarding Checklist
 desc: ''
-updated: 1652453636129
+updated: 1655225530183
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -29,7 +29,8 @@ This page is intended for use during onboarding procedures as a living reference
 
 - [ ] Benefits Enrollment / Benefits Orientation
 - [ ] [RTD EcoPass Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/rtd-eco-pass)
-- [ ] [Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/permit-parking)
+- [ ] [Car Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/permit-parking)
+- [ ] [Bike Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/bikes-and-scooters)
 
 ### Training & Certification
 
