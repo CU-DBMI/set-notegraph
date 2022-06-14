@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Onboarding Checklist
 desc: ''
-updated: 1655225530183
+updated: 1655239731875
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -76,6 +76,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Purchasing Process
 - [ ] Grants
 - [ ] Task Sizing and Timing
+- [ ] [CU Boulder Research Computing](https://colorado.edu/rc/resources)
 
 ### Team Policies and Cadence
 
