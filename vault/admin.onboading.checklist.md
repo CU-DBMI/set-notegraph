@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1656532060696
+updated: 1656616866705
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -25,9 +25,14 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] IRS W-4
 - [ ] I9 Verification (Correspondence through email)
 
-### Benefits and Commuting
+### Benefits
 
 - [ ] Benefits Enrollment / Benefits Orientation
+- [ ] [Tuition Assistance Benefit for Employees](https://www.cu.edu/employee-services/benefits-wellness/current-employee/tuition-assistance/tuition-assistance-benefit)
+- [ ] [CU on Coursera](https://www.cu.edu/employee-services/professional-growth-training/learning/cu-coursera)
+
+### Commuting
+
 - [ ] [RTD EcoPass Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/rtd-eco-pass)
 - [ ] [Car Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/permit-parking)
 - [ ] [Bike Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/bikes-and-scooters)
