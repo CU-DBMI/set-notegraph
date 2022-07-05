@@ -2,11 +2,12 @@
 id: 9nphhg89vc67zg5yyjzlrq6
 title: Workflow
 desc: ''
-updated: 1656532441153
+updated: 1657060978055
 created: 1652379988779
 ---
 
-The usual suspects. Here's a good overview, https://ploomber.io/blog/survey/. The ploober document lists the following, but it's also a sales site, so listing tools separately without opinion:
+The usual suspects. Here's a good overview, <https://ploomber.io/blog/survey/>. The ploober document lists the following, but it's also a sales site, so listing tools separately without opinion:
+
 - [Ploomber](https://ploomber.io)
 - [Airflow](https://airflow.apache.org)
 - [Dagster](https://www.dagster.io)
@@ -26,3 +27,7 @@ The usual suspects. Here's a good overview, https://ploomber.io/blog/survey/. Th
 [Nextflow](https://www.nextflow.io/), a Java tool, is especially liked in the academic research community.
 
 Useful in the academic and research environment, we've run across [SnakeMake](https://snakemake.readthedocs.io/en/stable/index.html).
+
+[Ray Workflows](https://docs.ray.io/en/latest/workflows/basics.html) - Part of the Ray distributed compute project.
+
+[Globus Flows](https://www.globus.org/platform/services/flows) - Part of Globus, a research-focused data management suite.
