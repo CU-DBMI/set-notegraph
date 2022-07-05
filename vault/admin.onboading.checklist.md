@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1656616866705
+updated: 1657053362713
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -24,6 +24,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Payroll Direct Deposit
 - [ ] IRS W-4
 - [ ] I9 Verification (Correspondence through email)
+- [ ] [PeopleSoft - My Leave](https://www.cu.edu/employee-services/payroll/self-service/my-leave)
 
 ### Benefits
 
@@ -40,6 +41,7 @@ This page is intended for use during onboarding procedures as a living reference
 ### Training & Certification
 
 - [ ] Canvas - New Employee Orientation (NEO) Course
+- [ ] Skillsoft - CU: HIPAA Regulations (_scorm12_cu_a00020_0001)
 - [ ] Skillsoft - CU: Administrative Analysis Environment (A2E) Basics (_scorm12_cu_u00202_0001)
 - [ ] [Live – Health Data Compass Orientation](https://www.healthdatacompass.org/data-delivery-services/compass-orientation)
 - [ ] [Coursera - Researcher Management Leadership Training](https://www.coursera.org/learn/researcher-management-leadership-training/) (recommended for those new to academic research)
