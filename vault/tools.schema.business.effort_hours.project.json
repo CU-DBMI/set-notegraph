@@ -43,7 +43,7 @@
             "type": "array",
             "title": "A list of resources",
             "items": {
-                "$ref": "schemas/effort_hours-resource.json"
+                "$ref": "/business/2022-06-28/effort_hours-resource.json"
             }
         }
     }

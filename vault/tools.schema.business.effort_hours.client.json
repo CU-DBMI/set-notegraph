@@ -35,7 +35,7 @@
             "type": "array",
             "title": "A list of projects",
             "items": {
-                "$ref": "schemas/effort_hours-project.json"
+                "$ref": "/business/2022-06-28/effort_hours-project.json"
             }
         }
     }
