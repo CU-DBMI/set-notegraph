@@ -1,0 +1,29 @@
+{
+    "$id": "https://cuhealth.ai/business/2022-06-28/effort_hours-resource.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "description": "tasks per resource",
+    "additionalProperties": false,
+    "type": "object",
+    "title": "Resource schema",
+    "required": [
+        "MDC Resource ID",
+        "Resource Name"
+    ],
+    "properties": {
+        "MDC Resource ID": {
+            "type": "string",
+            "title": "The MDC Resource ID"
+        },
+        "Resource Name": {
+            "type": "string",
+            "title": "The name of the person or team"
+        },
+        "Tasks": {
+            "type": "array",
+            "title": "A list of tasks",
+            "items": {
+                "$ref": "schemas/effort_hours-task.json"
+            }
+        }
+    }
+}

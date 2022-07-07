@@ -1,0 +1,50 @@
+{
+    "$id": "https://cuhealth.ai/business/2022-06-28/effort_hours-project.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "description": "effort hours project schema",
+    "additionalProperties": false,
+    "type": "object",
+    "title": "Project schema",
+    "required": [
+        "MDC Project ID",
+        "Project Name"
+    ],
+    "properties": {
+        "MDC Project ID": {
+            "type": "string",
+            "title": "The MDC Project ID"
+        },
+        "Project Name": {
+            "type": "string",
+            "title": "Project name"
+        },
+        "Project Lifecycle": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "title": "Open, closed, etc."
+        },
+        "Notes": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "title": "Optional Project Notes"
+        },
+        "Grant Proposal #": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "title": "Grant proposal number"
+        },
+        "Resources": {
+            "type": "array",
+            "title": "A list of resources",
+            "items": {
+                "$ref": "schemas/effort_hours-resource.json"
+            }
+        }
+    }
+}
