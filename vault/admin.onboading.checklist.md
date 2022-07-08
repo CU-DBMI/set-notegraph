@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1657053362713
+updated: 1657316720612
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -66,7 +66,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] University Badging
 - [ ] Smartsheets Access
 - [ ] General Setup
-- [ ] Email Signature
+- [ ] [[admin.email-signature]]
 - [ ] Microsoft Profile Image
 - [ ] Slack Profile Image
 - [ ] Zoom Profile Image
