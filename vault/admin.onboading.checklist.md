@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1657316720612
+updated: 1658182342134
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -64,7 +64,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Monday.com
 - [ ] Zoom Account
 - [ ] University Badging
-- [ ] Smartsheets Access
+- [ ] [Smartsheets Access (Unlicensed)](https://medschool.zendesk.com/hc/en-us/articles/1500003375301-Creating-an-Unlicensed-user-account)
 - [ ] General Setup
 - [ ] [[admin.email-signature]]
 - [ ] Microsoft Profile Image
