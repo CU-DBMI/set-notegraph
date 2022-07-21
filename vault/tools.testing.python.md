@@ -2,7 +2,7 @@
 id: hk2yakbkecoyip1jv0khmip
 title: Python
 desc: ''
-updated: 1658358439213
+updated: 1658444064319
 created: 1658357737031
 ---
 
@@ -17,5 +17,6 @@ Covering some testing tools for Python.
 
 ## Testing specifics
 
+- [coverage.py](https://github.com/nedbat/coveragepy) Test case code coverage.
 - [mutmut](https://github.com/boxed/mutmut) Mutation testing
 - [hypothesis](https://hypothesis.works/) Property based testing (generating data for tests)
