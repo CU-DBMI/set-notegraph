@@ -2,7 +2,7 @@
 id: ehrsczzltmodj2i6v83owig
 title: Organizational Charts and People
 desc: ''
-updated: 1659719693768
+updated: 1659730227919
 created: 1659717689682
 ---
 
@@ -10,17 +10,23 @@ created: 1659717689682
 
 This page outlines where to reference organizational charts or personnel information to better understand hierarchies in context to Software Engineering work.
 
-## University of Colorado Anschutz - School of Medicine
+## University of Colorado Anschutz
 
-### Administration
+### Office of Information Technology
+
+- <https://www.ucdenver.edu/offices/office-of-information-technology/about-oit/oit-leadership>
+
+### School of Medicine
+
+#### Administration
 
 - <https://medschool.cuanschutz.edu/deans-office/leadership/organizational-charts>
 
-### Information Services
+#### Information Services
 
 - <https://medschool.cuanschutz.edu/informationservices/our-team>
 
-### Department of Biomedical Informatics
+#### Department of Biomedical Informatics
 
 - <https://medschool.cuanschutz.edu/dbmi/about-us>
 

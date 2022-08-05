@@ -2,7 +2,7 @@
 id: ebom0cwiuntl2spjvddb12p
 title: Documentation
 desc: ''
-updated: 1659716156904
+updated: 1659720519340
 created: 1659714632385
 ---
 
@@ -25,6 +25,7 @@ Generate human-readable content from API's and your code.
 - [mkdocstrings](https://mkdocstrings.github.io/)
 - [Docsify](https://docsify.js.org/)
 - [Slate](https://github.com/slatedocs/slate)
+- [Docusaurus](https://github.com/facebook/docusaurus)
 
 ## Wiki-focused Static Site Generators
 
