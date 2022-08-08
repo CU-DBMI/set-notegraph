@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1658182342134
+updated: 1659992344545
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -34,6 +34,7 @@ This page is intended for use during onboarding procedures as a living reference
 
 ### Commuting
 
+- [ ] [Campus and Building Locations](https://www.cuanschutz.edu/about/cu-anschutz-map)
 - [ ] [RTD EcoPass Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/rtd-eco-pass)
 - [ ] [Car Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/permit-parking)
 - [ ] [Bike Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/bikes-and-scooters)
@@ -81,6 +82,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] CU Denver & Anschutz Office of Information Technology (OIT)
 - [ ] SOM Teams for Awareness
 - [ ] Purchasing Process
+- [ ] [[Research Lifecycle | resources.model.research-lifecycle]]
 - [ ] Grants
 - [ ] Task Sizing and Timing
 - [ ] Principal Investigators (PI's)
