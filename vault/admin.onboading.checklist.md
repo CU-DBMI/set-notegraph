@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1659992344545
+updated: 1660236093662
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -26,11 +26,13 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] I9 Verification (Correspondence through email)
 - [ ] [PeopleSoft - My Leave](https://www.cu.edu/employee-services/payroll/self-service/my-leave)
 
-### Benefits
+### Benefits / Time Off
 
 - [ ] Benefits Enrollment / Benefits Orientation
 - [ ] [Tuition Assistance Benefit for Employees](https://www.cu.edu/employee-services/benefits-wellness/current-employee/tuition-assistance/tuition-assistance-benefit)
 - [ ] [CU on Coursera](https://www.cu.edu/employee-services/professional-growth-training/learning/cu-coursera)
+- [ ] Vacation / Sick Time Accruals
+- [ ] [Holidays](https://www.cu.edu/employee-services/holidays)
 
 ### Commuting
 
@@ -96,11 +98,12 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Supercomputers
 - [ ] PetaLibrary
 - [ ] Globus
+- [ ] [School of Medicine Research Resources Page](https://som.ucdenver.edu/researchresources)
 
-### Team Policies and Cadence
+### Team Policies / Cadence / Schedule
 
-- [ ] Vacation Time
-- [ ] Sick Time
+- [ ] Vacation / Sick Time Procedures
+- [ ] [Academic Calendar](https://www.cuanschutz.edu/registrar/academic-calendars)
 - [ ] Communication
 - [ ] Seminar, Chalk Talk, Lunch+Learn Attendance
 - [ ] Generalized Source Control Cadence
