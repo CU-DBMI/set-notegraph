@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1660236093662
+updated: 1660315143099
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -59,17 +59,18 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Google Workspace Account
 - [ ] Google Project(s) Access
 - [ ] VPN setup
-- [ ] Microsoft Teams Center for Health AI Team Access
-- [ ] Slack
+- [ ] Microsoft Teams DBMI Team Access
+- [ ] Slack DBMI Workspace Access
+- [ ] Discord (Suggested Setup for Various Labs/etc.)
 - [ ] Github Account (New or Linked)
 - [ ] Github Org for Center for Health AI
 - [ ] Github Org Team Access
 - [ ] Monday.com
 - [ ] Zoom Account
+- [ ] [Zoom Outlook Add-in](https://support.zoom.us/hc/en-us/articles/115005223126-Installing-the-Zoom-for-Outlook-add-in#h_e4f98edd-27ea-4f6b-a993-bdc5b8cc7d04)
 - [ ] University Badging
 - [ ] [Smartsheets Access (Unlicensed)](https://medschool.zendesk.com/hc/en-us/articles/1500003375301-Creating-an-Unlicensed-user-account)
-- [ ] General Setup
-- [ ] [[admin.email-signature]]
+- [ ] [[Email Signature Guidance | admin.email-signature]]
 - [ ] Microsoft Profile Image
 - [ ] Slack Profile Image
 - [ ] Zoom Profile Image
