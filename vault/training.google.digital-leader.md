@@ -2,7 +2,7 @@
 id: tnt03zf4re4d2cehjw6ds9k
 title: Digital Leader
 desc: ''
-updated: 1657839674864
+updated: 1660233816678
 created: 1657839437744
 ---
 
@@ -23,3 +23,4 @@ Google Digital Leader Certification training information.
 - __External (Unofficial)__
   - <https://www.youtube.com/watch?v=UGRDM86MBIQ&ab_channel=freeCodeCamp.org>
   - <https://youtube.com/watch?v=gddt4n_JEkk&t=4s>
+  - Visual Aids - <https://thecloudgirl.dev/sketchnote.html>

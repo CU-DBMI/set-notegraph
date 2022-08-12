@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1658182342134
+updated: 1660315143099
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -26,14 +26,17 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] I9 Verification (Correspondence through email)
 - [ ] [PeopleSoft - My Leave](https://www.cu.edu/employee-services/payroll/self-service/my-leave)
 
-### Benefits
+### Benefits / Time Off
 
 - [ ] Benefits Enrollment / Benefits Orientation
 - [ ] [Tuition Assistance Benefit for Employees](https://www.cu.edu/employee-services/benefits-wellness/current-employee/tuition-assistance/tuition-assistance-benefit)
 - [ ] [CU on Coursera](https://www.cu.edu/employee-services/professional-growth-training/learning/cu-coursera)
+- [ ] Vacation / Sick Time Accruals
+- [ ] [Holidays](https://www.cu.edu/employee-services/holidays)
 
 ### Commuting
 
+- [ ] [Campus and Building Locations](https://www.cuanschutz.edu/about/cu-anschutz-map)
 - [ ] [RTD EcoPass Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/rtd-eco-pass)
 - [ ] [Car Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/permit-parking)
 - [ ] [Bike Parking Information](https://www.cuanschutz.edu/offices/facilities-management/parking-transportation-maps/parking/bikes-and-scooters)
@@ -56,17 +59,18 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Google Workspace Account
 - [ ] Google Project(s) Access
 - [ ] VPN setup
-- [ ] Microsoft Teams Center for Health AI Team Access
-- [ ] Slack
+- [ ] Microsoft Teams DBMI Team Access
+- [ ] Slack DBMI Workspace Access
+- [ ] Discord (Suggested Setup for Various Labs/etc.)
 - [ ] Github Account (New or Linked)
 - [ ] Github Org for Center for Health AI
 - [ ] Github Org Team Access
 - [ ] Monday.com
 - [ ] Zoom Account
+- [ ] [Zoom Outlook Add-in](https://support.zoom.us/hc/en-us/articles/115005223126-Installing-the-Zoom-for-Outlook-add-in#h_e4f98edd-27ea-4f6b-a993-bdc5b8cc7d04)
 - [ ] University Badging
 - [ ] [Smartsheets Access (Unlicensed)](https://medschool.zendesk.com/hc/en-us/articles/1500003375301-Creating-an-Unlicensed-user-account)
-- [ ] General Setup
-- [ ] [[admin.email-signature]]
+- [ ] [[Email Signature Guidance | admin.email-signature]]
 - [ ] Microsoft Profile Image
 - [ ] Slack Profile Image
 - [ ] Zoom Profile Image
@@ -81,6 +85,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] CU Denver & Anschutz Office of Information Technology (OIT)
 - [ ] SOM Teams for Awareness
 - [ ] Purchasing Process
+- [ ] [[Research Lifecycle | resources.model.research-lifecycle]]
 - [ ] Grants
 - [ ] Task Sizing and Timing
 - [ ] Principal Investigators (PI's)
@@ -94,11 +99,12 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Supercomputers
 - [ ] PetaLibrary
 - [ ] Globus
+- [ ] [School of Medicine Research Resources Page](https://som.ucdenver.edu/researchresources)
 
-### Team Policies and Cadence
+### Team Policies / Cadence / Schedule
 
-- [ ] Vacation Time
-- [ ] Sick Time
+- [ ] Vacation / Sick Time Procedures
+- [ ] [Academic Calendar](https://www.cuanschutz.edu/registrar/academic-calendars)
 - [ ] Communication
 - [ ] Seminar, Chalk Talk, Lunch+Learn Attendance
 - [ ] Generalized Source Control Cadence
