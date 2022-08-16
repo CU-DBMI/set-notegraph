@@ -2,13 +2,13 @@
 id: 39m0rro1doueclqnax1gdpw
 title: Team Science
 desc: ''
-updated: 1660342298038
+updated: 1660678706200
 created: 1660341073861
 ---
 
 ## Summary
 
-This page provides notes surrounding "Team Science" as a model for performing scientific research.
+This page provides notes surrounding "Team Science" as a methodology for performing scientific research.
 
 See below for some definitions of Team Science.
 
