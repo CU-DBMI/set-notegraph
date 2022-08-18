@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1660315143099
+updated: 1660841252437
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -91,6 +91,8 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Principal Investigators (PI's)
 - [ ] Standard Operating Procedures (SOP's)
 - [ ] Data reproducibility
+- [ ] [OIT Status Page](https://cu-anschutz-denver-oit.statuspage.io/)
+- [ ] [OIT Software Page](https://www.ucdenver.edu/offices/office-of-information-technology/software)
 
 ### Research Computing Resources
 
