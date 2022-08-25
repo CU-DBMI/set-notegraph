@@ -2,7 +2,7 @@
 id: klprqea0qzzzvlj81q83t69
 title: Central Information Warehouse
 desc: ''
-updated: 1659717405696
+updated: 1661437431441
 created: 1659717218506
 ---
 
@@ -16,6 +16,10 @@ CIW is a data warehouse run by a team within UIS called "IRM" (also known as Dat
 
 [https://content.cu.edu/irm/](https://content.cu.edu/irm/)
 
+## Data Model
+
+CIW's Data Model is based of [PeopleSoft's EPM](https://docs.oracle.com/cd/E29700_01/epm91fp1/eng/psbooks/pcsw/chapter.htm?File=pcsw/htm/pcsw04.htm) with multiple notable additions, that were created in house, the majority of which include CU_ in their names.
+
 ## Access
 
 ### Notes
@@ -24,7 +28,7 @@ Access to various source data is controlled by way of user accounts and related 
 
 ### Access Requests
 
-Access requests can be found on the following page: [https://www.cu.edu/uis/access/access](https://www.cu.edu/uis/access/access)
+Access requests can be found on the following page: [https://www.cu.edu/uis/central-information-warehouse-ciw-access](https://www.cu.edu/uis/central-information-warehouse-ciw-access)
 
 ## Schedule and Status
 
