@@ -1,12 +1,12 @@
 ---
 id: fhpqcia6cfvjdt6yjulbs0v
-title: Visualization Engineering
+title: Data Visualization
 desc: ''
-updated: 1661443402674
+updated: 1661454343385
 created: 1661442101759
 ---
 
-Covering visualization engineering tools along with some notes. Items are provided in no particular order.
+Covering data visualization tools along with some notes. Items are provided in no particular order.
 
 ## Visualization Dashboarding or Platform Tools
 
