@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1660841252437
+updated: 1661551669259
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -58,7 +58,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] LastPass
 - [ ] Google Workspace Account
 - [ ] Google Project(s) Access
-- [ ] VPN setup
+- [ ] [VPN setup](https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/vpn-and-remote-access)
 - [ ] Microsoft Teams DBMI Team Access
 - [ ] Slack DBMI Workspace Access
 - [ ] Discord (Suggested Setup for Various Labs/etc.)
@@ -74,6 +74,9 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Microsoft Profile Image
 - [ ] Slack Profile Image
 - [ ] Zoom Profile Image
+- [ ] [On-campus Room Scheduling](https://schedule.ucdenver.edu/EmsWebApp/)
+- [ ] Departmental Rooms for On-campus Room Scheduling Access
+- [ ] Departmental Policy/Travel/etc. Sharepoint Documentation
 
 ### Informational
 
