@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1661551669259
+updated: 1661966417016
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -77,6 +77,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] [On-campus Room Scheduling](https://schedule.ucdenver.edu/EmsWebApp/)
 - [ ] Departmental Rooms for On-campus Room Scheduling Access
 - [ ] Departmental Policy/Travel/etc. Sharepoint Documentation
+- [ ] [On-campus Wi-fi](https://www.ucdenver.edu/offices/office-of-information-technology/services/internet-and-phones/wireless-and-connectivity)
 
 ### Informational
 
