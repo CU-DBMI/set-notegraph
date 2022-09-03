@@ -2,7 +2,7 @@
 id: qiw43al18pmvgl9nu2wan56
 title: Checklist
 desc: ''
-updated: 1661966417016
+updated: 1662232774202
 created: 1652453004238
 ---
 ## Software Engineering Team Onboarding Checklist
@@ -111,6 +111,7 @@ This page is intended for use during onboarding procedures as a living reference
 
 - [ ] Vacation / Sick Time Procedures
 - [ ] [Academic Calendar](https://www.cuanschutz.edu/registrar/academic-calendars)
+- [ ] [CU Anschutz Event Calendar](https://calendar.cuanschutz.edu/)
 - [ ] Communication
 - [ ] Seminar, Chalk Talk, Lunch+Learn Attendance
 - [ ] Generalized Source Control Cadence
