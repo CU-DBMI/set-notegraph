@@ -2,7 +2,7 @@
 id: urgb7nmksr3izpnx82iuoxu
 title: Tableau and Power BI Comparison
 desc: ''
-updated: 1667486875132
+updated: 1667490378330
 created: 1667486780981
 ---
 
@@ -57,7 +57,7 @@ Data visualization tools often include their own programming languages which hel
 
 ## Other Alternatives
 
-- Google Data Studio: <https://lookerstudio.google.com/overview>
+- Google Looker Studio: <https://lookerstudio.google.com/overview>
 An all-online data visualization suite which integrates with Google and many other sources.
 - Apache Superset: <https://superset.apache.org/>
 An open-source data visualization tool supported by the Apache Software Foundation.

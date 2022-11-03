@@ -2,7 +2,7 @@
 id: fhpqcia6cfvjdt6yjulbs0v
 title: Data Visualization
 desc: ''
-updated: 1661454343385
+updated: 1667490344810
 created: 1661442101759
 ---
 
@@ -17,7 +17,7 @@ Covering data visualization tools along with some notes. Items are provided in n
   - Access provided to CU users via UIS: <https://www.cu.edu/uis/service-catalog/tableau>
   - Note distinction between desktop and server, server: private vs public access.
   - Desktop client typically used to create data sources used by server dashboards.
-- [Google Data Studio](https://developers.google.com/datastudio/)
+- [Google Looker Studio](https://developers.google.com/looker-studio)
   - Browser-based tool for creating reports and dashboards.
 - [Google Charts](https://developers.google.com/chart/)
 - [Apache Superset](https://superset.apache.org/)
