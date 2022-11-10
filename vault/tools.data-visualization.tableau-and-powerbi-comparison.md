@@ -2,7 +2,7 @@
 id: urgb7nmksr3izpnx82iuoxu
 title: Tableau and Power BI Comparison
 desc: ''
-updated: 1667490378330
+updated: 1668120482024
 created: 1667486780981
 ---
 
@@ -54,6 +54,10 @@ Data visualization tools often include their own programming languages which hel
 
 - Tableau Level of Detail (LOD): <https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod.htm>
 - Power BI Data Analysis Expressions (DAX): <https://learn.microsoft.com/en-us/dax/>
+
+## Further Reading
+
+- [Tableau.com | Compare Tableau to Microsoft Power BI](https://www.tableau.com/compare/tableau-power-bi)
 
 ## Other Alternatives
 
