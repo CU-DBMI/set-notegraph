@@ -75,7 +75,7 @@ preview:
     automaticallyShowPreview: false
 publishing:
     assetsPrefix: /set-notegraph
-    siteUrl: https://CUHealthAI.github.io
+    siteUrl: https://CU-DBMI.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
