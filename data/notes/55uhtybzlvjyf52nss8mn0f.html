@@ -1,0 +1,22 @@
+<h1 id="create-note-from-jupyter-notebook">Create Note from Jupyter Notebook<a aria-hidden="true" class="anchor-heading icon-link" href="#create-note-from-jupyter-notebook"></a></h1>
+<h2 id="summary">Summary<a aria-hidden="true" class="anchor-heading icon-link" href="#summary"></a></h2>
+<p>The following note covers how to create Dendron-compatible notes from Jupyter notebook files.</p>
+<ul>
+<li>Jupyter notebooks are JSON files used to compose markdown and code intended to be executed within specialized notebook-compatible environments.</li>
+<li>Dendron notes are markdown files with frontmatter.</li>
+<li>Jupytext may be used to create Markdown files from Jupyter notebooks.</li>
+</ul>
+<h2 id="process">Process<a aria-hidden="true" class="anchor-heading icon-link" href="#process"></a></h2>
+<ol>
+<li>Begin with a Jupyter notebook file</li>
+<li>Install <a href="https://jupytext.readthedocs.io/en/latest/">Jupytext</a></li>
+<li><a href="https://jupytext.readthedocs.io/en/latest/paired-notebooks.html">Pair Jupyter notebook file with markdown file</a></li>
+<li>Apply <a href="https://wiki.dendron.so/notes/ZeC74FYVECsf9bpyngVMU/#fixfrontmatter">Dendron Doctor: fixFrontMatter</a> to resulting markdown file.</li>
+<li>Enjoy the Jupyter notebook as a Dendron note ✅</li>
+</ol>
+<p>Special notes:</p>
+<ul>
+<li>Output from Jupyter notebook cells are not saved by Jupytext when converting to markdown.</li>
+<li>Each time the notebook is saved, Jupytext pairing will overwrite the Dendron-compatible frontmatter within the markdown file.</li>
+<li>Despite this, Dendron Doctor: fixFrontMatter appears to be able to retain the note ID.</li>
+</ul>

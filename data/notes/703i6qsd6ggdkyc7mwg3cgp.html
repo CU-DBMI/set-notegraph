@@ -1,0 +1,36 @@
+<h1 id="validation">Validation<a aria-hidden="true" class="anchor-heading icon-link" href="#validation"></a></h1>
+<p>Tools for data validation.</p>
+<h2 id="schema-based-validation">Schema-based Validation<a aria-hidden="true" class="anchor-heading icon-link" href="#schema-based-validation"></a></h2>
+<p>Using static schema definitions to validate data.</p>
+<h3 id="apache-project-based">Apache-project Based<a aria-hidden="true" class="anchor-heading icon-link" href="#apache-project-based"></a></h3>
+<ul>
+<li><a href="https://avro.apache.org/docs/1.11.1/getting-started-python/">Avro (pythonic implementation)</a>: Python library for using <a href="https://avro.apache.org/docs/">Apache Avro</a>.</li>
+<li><a href="https://arrow.apache.org/docs/python/generated/pyarrow.Table.html#pyarrow.Table.validate">Apache Arrow Table Schema Validate (PyArrow)</a>: Validates <a href="https://arrow.apache.org/docs/index.html">Apache Arrow</a> schema.</li>
+<li><a href="https://arrow.apache.org/docs/python/generated/pyarrow.parquet.ParquetFile.html#pyarrow.parquet.ParquetFile.schema">Apache Parquet Schema (PyArrow)</a>: Gathers but no embedded validate functionality for Parquet-based schema. Note: may use Arrow-based schema validation through PyArrow.</li>
+</ul>
+<h3 id="json-based">JSON-based<a aria-hidden="true" class="anchor-heading icon-link" href="#json-based"></a></h3>
+<ul>
+<li><a href="https://python-jsonschema.readthedocs.io/en/stable/">jsonschema (pythonic implementation)</a>: Python library for using <a href="https://json-schema.org/">JSON Schema</a> functionality.</li>
+</ul>
+<h3 id="independent">Independent<a aria-hidden="true" class="anchor-heading icon-link" href="#independent"></a></h3>
+<ul>
+<li><a href="https://github.com/pyeve/cerberus">Cerberus</a>: custom data validation system for python.</li>
+<li><a href="https://github.com/awslabs/deequ">Deequ</a>: schema and profile based data unit-testing framework based on <a href="https://spark.apache.org/">Apache Spark</a>.</li>
+<li><a href="https://pydantic-docs.helpmanual.io/">Pydantic</a>: Pythonic data validation library.</li>
+<li><a href="https://marshmallow.readthedocs.io/en/stable/">Marshmallow</a>: Pythonic data ORM/ODM and validation library.</li>
+<li><a href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.testing.assert_frame_equal.html">Pandas <code>assert_frame_equal</code></a>: validate Pandas dataframes against one another.</li>
+<li><a href="https://pandera.readthedocs.io/en/latest/index.html">Pandera</a>: Pythonic dataframe-focused schema validation.</li>
+<li><a href="https://github.com/alecthomas/voluptuous">Voluptuous</a>: custom data validation system for python.</li>
+<li><a href="https://github.com/keleshev/schema">Schema (Python)</a>: Pythonic schema validation.</li>
+</ul>
+<h3 id="language">Language<a aria-hidden="true" class="anchor-heading icon-link" href="#language"></a></h3>
+<ul>
+<li><a href="https://cuelang.org/">Cuelang</a>: data, schema, and validation language, all-in-one.</li>
+</ul>
+<h2 id="profile-based-validation">Profile-based Validation<a aria-hidden="true" class="anchor-heading icon-link" href="#profile-based-validation"></a></h2>
+<p>Using profiles of data (as opposed to static schema definition) to validate data.</p>
+<ul>
+<li><a href="https://docs.greatexpectations.io/docs/">Great Expectations</a>: implements profile-based data quality checks and validation for your data.</li>
+<li><a href="https://docs.soda.io/soda/quick-start-soda-core.html">Soda</a>: implements profile-based data quality checks and validation for your data.</li>
+<li><a href="https://docs.deepchecks.com/stable/getting-started/welcome.html">DeepChecks</a>: intended from ML data profile validation.</li>
+</ul>

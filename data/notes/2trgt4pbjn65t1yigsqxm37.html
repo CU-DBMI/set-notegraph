@@ -1,0 +1,54 @@
+<h1 id="mermaid-style-workarounds">Mermaid Style Workarounds<a aria-hidden="true" class="anchor-heading icon-link" href="#mermaid-style-workarounds"></a></h1>
+<h2 id="summary">Summary<a aria-hidden="true" class="anchor-heading icon-link" href="#summary"></a></h2>
+<p>This page outlines visual styling workarounds with Mermaid.</p>
+<h2 id="flowchart-font-size">Flowchart Font Size<a aria-hidden="true" class="anchor-heading icon-link" href="#flowchart-font-size"></a></h2>
+<p>Change the font size of Flowchart content. Note that the Mermaid client or other renderings may not strictly obey the changed font-sizes, sometimes resulting in unchanged image exports.</p>
+<p><em>Original (small font)</em></p>
+<div class="mermaid">
+  flowchart LR
+    subgraph sub_graph1[Subgraph]
+        direction LR
+        Start --> Stop
+    end
+</div>
+<p><em>Updated with Font Size Adjusted</em></p>
+<div class="mermaid">
+  flowchart LR
+    subgraph sub_graph1[&#x3C;font size=5>Subgraph]
+        direction LR
+        Start[&#x3C;font size=5>Start] --> Stop[&#x3C;font size=5>Stop]
+    end
+</div>
+<h2 id="flowchart-subgraph-padding-or-margin">Flowchart Subgraph Padding or Margin<a aria-hidden="true" class="anchor-heading icon-link" href="#flowchart-subgraph-padding-or-margin"></a></h2>
+<p>Add padding or margin within subgraphs for readability or design aesthetic improvements.</p>
+<p><em>Original (subgraph readability challenges)</em></p>
+<div class="mermaid">
+  flowchart LR
+    subgraph sub_graph1[Subgraph]
+        direction LR
+        subgraph sub_graph2[A]
+            Start --> Stop
+        end
+        subgraph sub_graph3[B]
+            Outlier --> Stop
+        end
+    end
+</div>
+<p><em>Updated with Padding or Margin Added</em></p>
+<div class="mermaid">
+  flowchart LR
+    subgraph sub_graph1[Subgraph]
+        subgraph subgraph_padding1[ ]
+            direction LR
+            subgraph sub_graph2[A]
+                Start --> Stop
+            end
+            subgraph sub_graph3[B]
+                Outlier --> Stop
+            end
+        end
+    end
+
+classDef subgraph_padding fill:none,stroke:none;
+class subgraph_padding1 subgraph_padding
+</div>

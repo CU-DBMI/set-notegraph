@@ -1,0 +1,102 @@
+<h1 id="presentation-2022-07-07">Presentation 2022 07 07<a aria-hidden="true" class="anchor-heading icon-link" href="#presentation-2022-07-07"></a></h1>
+<!-- slide -->
+<h1 id="dagger">Dagger<a aria-hidden="true" class="anchor-heading icon-link" href="#dagger"></a></h1>
+<h3 id="portable-development--with-cuelang"><span style="color:#aaa; text-align:center;">Portable Development <br> with Cuelang</span><a aria-hidden="true" class="anchor-heading icon-link" href="#portable-development--with-cuelang"></a></h3>
+<!-- slide -->
+<h2 id="intro">Intro<a aria-hidden="true" class="anchor-heading icon-link" href="#intro"></a></h2>
+<br>
+<p><a href="https://github.com/dagger/dagger">Dagger</a> is a portable development tool implemented through <a href="https://github.com/cue-lang/cue">Cuelang</a>.
+<br></p>
+<div class="mermaid">
+  graph LR
+  cue[ *.cue File ] --> dagger[ cmd: dagger do 'action' ]
+  dagger --> buildkit
+  buildkit --> do[perform 'action']
+</div>
+<!-- slide -->
+<h2 id="whats-cuelang">What's Cuelang?<a aria-hidden="true" class="anchor-heading icon-link" href="#whats-cuelang"></a></h2>
+<blockquote>
+<p><span style="text-align:left;float:left;"> CUE is an open-source data validation language and inference engine with ... many applications, such as data <strong>validation</strong>, data <strong>templating</strong>, <strong>configuration</strong>, <strong>querying</strong>, <strong>code generation</strong> and even <strong>scripting</strong>."</span></p>
+</blockquote>
+<p><a href="https://cuelang.org/docs/about/">https://cuelang.org/docs/about/</a></p>
+<!-- slide -->
+<h2 id="whats-cuelang-1">What's Cuelang?<a aria-hidden="true" class="anchor-heading icon-link" href="#whats-cuelang-1"></a></h2>
+<p>Data values and schema together 😮</p>
+<table>
+<tbody><tr>
+<td>
+<pre class="language-json"><code class="language-json"><span class="token comment">// JSON</span>
+<span class="token comment">// values</span>
+<span class="token punctuation">{</span> 
+  <span class="token property">"denver"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">"name"</span><span class="token operator">:</span> <span class="token string">"Denver"</span><span class="token punctuation">,</span>
+    <span class="token property">"state"</span><span class="token operator">:</span> <span class="token string">"CO"</span><span class="token punctuation">,</span>
+    <span class="token property">"pop"</span><span class="token operator">:</span> <span class="token number">760049</span><span class="token punctuation">,</span>
+    <span class="token property">"capital"</span><span class="token operator">:</span> <span class="token boolean">true</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre>
+</td>
+<td>
+<pre class="language-json"><code class="language-json"><span class="token comment">// CUE</span>
+<span class="token comment">// values, schema, and more</span>
+bigCity<span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token comment">// type</span>
+    name<span class="token operator">:</span> string
+    <span class="token comment">// default value</span>
+    state<span class="token operator">:</span> string | *<span class="token string">"CO"</span>
+    <span class="token comment">// operators, shorthand</span>
+    pop<span class="token operator">:</span> >700K
+    <span class="token comment">// value</span>
+    capital<span class="token operator">:</span> <span class="token boolean">true</span>
+<span class="token punctuation">}</span>
+</code></pre>
+</td>
+</tr>
+</tbody></table>
+<!-- slide -->
+<h3 id="cuelang-probably-deserves--its-own-conversation-">Cuelang probably deserves <br> it's own conversation! 🙂<a aria-hidden="true" class="anchor-heading icon-link" href="#cuelang-probably-deserves--its-own-conversation-"></a></h3>
+<!-- slide -->
+<h2 id="whats-dagger">What's Dagger?<a aria-hidden="true" class="anchor-heading icon-link" href="#whats-dagger"></a></h2>
+<br>
+<ol>
+<li>Build a .cue file</li>
+<li>Use dagger client to implement (wherever)</li>
+<li>Dagger uses <a href="https://github.com/moby/buildkit">buildkit</a> to perform action
+<br></li>
+</ol>
+<div class="mermaid">
+  graph LR
+  cue[ *.cue File ] --> dagger[ cmd: dagger do 'stuff' ]
+  dagger --> buildkit
+  buildkit --> do[perform 'stuff']
+</div>
+<!-- slide -->
+<h2 id="example-usecase">Example Usecase<a aria-hidden="true" class="anchor-heading icon-link" href="#example-usecase"></a></h2>
+<ol>
+<li>Build a repo .cue file for testing</li>
+<li><strong>Test locally</strong> with dagger client</li>
+<li><strong>Test remotely</strong> with <a href="https://github.com/dagger/dagger-for-github">Github Action</a> (running the same file)</li>
+<li><strong>Celebrate</strong> 🥳 <br>(because there weren't surprises with local vs remote testing!)</li>
+</ol>
+<!-- slide -->
+<h2 id="installation-dagger-cli">Installation: <strong>Dagger Cli</strong><a aria-hidden="true" class="anchor-heading icon-link" href="#installation-dagger-cli"></a></h2>
+<ul>
+<li>macOS: <code>brew</code> or <code>curl + shell</code></li>
+<li>Windows: <code>psl</code>, <code>choco</code>, or <code>scoop</code></li>
+<li>Linux: <code>curl + shell</code></li>
+</ul>
+<p><a href="https://docs.dagger.io/install">https://docs.dagger.io/install</a></p>
+<!-- slide -->
+<h2 id="installation-buildkit">Installation: <strong>Buildkit</strong><a aria-hidden="true" class="anchor-heading icon-link" href="#installation-buildkit"></a></h2>
+<p>Dagger needs a place to invoke buildkit.</p>
+<ul>
+<li><strong>Docker Desktop</strong> (built-in compatibility)</li>
+<li><strong>Podman</strong> (some pre-config)</li>
+<li><strong>Kubernetes</strong> (some pre-config)</li>
+<li><strong>Remotes</strong> (BYO remote environment)</li>
+</ul>
+<p><a href="https://docs.dagger.io/1223/custom-buildkit/">https://docs.dagger.io/1223/custom-buildkit/</a></p>
+<!-- slide -->
+<h2 id="demo">Demo<a aria-hidden="true" class="anchor-heading icon-link" href="#demo"></a></h2>
+<p><a href="/set-notegraph/">Link here</a></p>

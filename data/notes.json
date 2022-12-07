@@ -1,0 +1,2858 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450846807,
+      "created": 1670450846807,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "ar4f3o70zlm93rwlaw6ffog": {
+      "id": "ar4f3o70zlm93rwlaw6ffog",
+      "title": "Home",
+      "desc": "",
+      "updated": 1656532071823,
+      "created": 1652299104094,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e67bc61669393c88f0f55ffa38bb22d6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ar4f3o70zlm93rwlaw6ffog",
+            "vaultName": "vault"
+          },
+          "value": "admin.onboading.checklist",
+          "alias": "Software Engineering Team Onboarding Checklist",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 54,
+              "offset": 209
+            },
+            "end": {
+              "line": 5,
+              "column": 177,
+              "offset": 332
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.onboading.checklist",
+            "anchorHeader": "software-engineering-team-onboarding-checklist"
+          }
+        }
+      ],
+      "anchors": {
+        "welcome": {
+          "type": "header",
+          "text": "Welcome",
+          "value": "welcome",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "0lzc0dvuck7s5d6wbu012jz",
+        "t4lf8cc2kvpzurjwl6pnuju",
+        "5tmv1gfg7n3iyvzssedcwkk",
+        "ycwu5w4i058oq8zh1cpyijv",
+        "tjkae9vlw7qtsimshpuwwad"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "tjkae9vlw7qtsimshpuwwad": {
+      "fname": "training",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845932,
+      "created": 1670450845932,
+      "id": "tjkae9vlw7qtsimshpuwwad",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "a7v2mbr6rhgkmnr86boxnti"
+      ],
+      "parent": "ar4f3o70zlm93rwlaw6ffog",
+      "data": {},
+      "title": "Training"
+    },
+    "a7v2mbr6rhgkmnr86boxnti": {
+      "fname": "training.google",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845932,
+      "created": 1670450845932,
+      "id": "a7v2mbr6rhgkmnr86boxnti",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tnt03zf4re4d2cehjw6ds9k"
+      ],
+      "parent": "tjkae9vlw7qtsimshpuwwad",
+      "data": {},
+      "title": "Google"
+    },
+    "tnt03zf4re4d2cehjw6ds9k": {
+      "id": "tnt03zf4re4d2cehjw6ds9k",
+      "title": "Digital Leader",
+      "desc": "",
+      "updated": 1660233816678,
+      "created": 1657839437744,
+      "custom": {},
+      "fname": "training.google.digital-leader",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fc8df48a6d7b0649f8252e865ac957f3",
+      "links": [],
+      "anchors": {
+        "details": {
+          "type": "header",
+          "text": "Details",
+          "value": "details",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "study-resources": {
+          "type": "header",
+          "text": "Study Resources",
+          "value": "study-resources",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "a7v2mbr6rhgkmnr86boxnti",
+      "data": {}
+    },
+    "ycwu5w4i058oq8zh1cpyijv": {
+      "fname": "resources",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845925,
+      "created": 1670450845925,
+      "id": "ycwu5w4i058oq8zh1cpyijv",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "vgdihf414t951bcsog765u3",
+        "re3n3ua8jiu8s26om8aa38o",
+        "pjgu0t7zlg0shw39reyn0jy",
+        "mzfjmwx2d8rzoprs7gqe5mp",
+        "el957bu25wfbtaukdjuer4u"
+      ],
+      "parent": "ar4f3o70zlm93rwlaw6ffog",
+      "data": {},
+      "title": "Resources"
+    },
+    "el957bu25wfbtaukdjuer4u": {
+      "fname": "resources.personnel",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845928,
+      "created": 1670450845928,
+      "id": "el957bu25wfbtaukdjuer4u",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "2npzv0koepi5gtumota9239",
+        "92b7jouxy4rof6klx4wi9eq"
+      ],
+      "parent": "ycwu5w4i058oq8zh1cpyijv",
+      "data": {},
+      "title": "Personnel"
+    },
+    "92b7jouxy4rof6klx4wi9eq": {
+      "fname": "resources.personnel.communities",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845934,
+      "created": 1670450845934,
+      "id": "92b7jouxy4rof6klx4wi9eq",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5922fk61gcmn7l2khb3us62"
+      ],
+      "parent": "el957bu25wfbtaukdjuer4u",
+      "data": {},
+      "title": "Communities"
+    },
+    "5922fk61gcmn7l2khb3us62": {
+      "id": "5922fk61gcmn7l2khb3us62",
+      "title": "West Big Data Innovation Hub",
+      "desc": "",
+      "updated": 1662233842740,
+      "created": 1662233658648,
+      "custom": {},
+      "fname": "resources.personnel.communities.west-big-data-innovation-hub",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3c46a06bb6408eb3a7f709e8226e15d3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "92b7jouxy4rof6klx4wi9eq",
+      "data": {}
+    },
+    "2npzv0koepi5gtumota9239": {
+      "id": "2npzv0koepi5gtumota9239",
+      "title": "Research Network",
+      "desc": "",
+      "updated": 1660160277385,
+      "created": 1660159864220,
+      "custom": {},
+      "fname": "resources.personnel.research-network",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b62b872eb4d9f7853f80a6e7cdb9d703",
+      "links": [],
+      "anchors": {
+        "university-of-colorado": {
+          "type": "header",
+          "text": "University of Colorado",
+          "value": "university-of-colorado",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "biomedical-focused-all-cu-campuses": {
+          "type": "header",
+          "text": "Biomedical Focused (all CU campuses)",
+          "value": "biomedical-focused-all-cu-campuses",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "cu-boulder-focused": {
+          "type": "header",
+          "text": "CU Boulder Focused",
+          "value": "cu-boulder-focused",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "el957bu25wfbtaukdjuer4u",
+      "data": {}
+    },
+    "mzfjmwx2d8rzoprs7gqe5mp": {
+      "fname": "resources.model",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845928,
+      "created": 1670450845928,
+      "id": "mzfjmwx2d8rzoprs7gqe5mp",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "lm2u1ybx2htflsamts47k3t",
+        "rjuen63qy1zg8ifectug11n"
+      ],
+      "parent": "ycwu5w4i058oq8zh1cpyijv",
+      "data": {},
+      "title": "Model"
+    },
+    "rjuen63qy1zg8ifectug11n": {
+      "fname": "resources.model.data-mining",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845933,
+      "created": 1670450845933,
+      "id": "rjuen63qy1zg8ifectug11n",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "6x2k7n4bgtx538q1ndb17x9"
+      ],
+      "parent": "mzfjmwx2d8rzoprs7gqe5mp",
+      "data": {},
+      "title": "Data Mining"
+    },
+    "6x2k7n4bgtx538q1ndb17x9": {
+      "id": "6x2k7n4bgtx538q1ndb17x9",
+      "title": "Knowledge Discovery in Databases",
+      "desc": "",
+      "updated": 1660081227925,
+      "created": 1660080608603,
+      "custom": {},
+      "fname": "resources.model.data-mining.knowledge-discovery-in-databases",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4ae14e746b6ec3f56223640002aa8e06",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "rjuen63qy1zg8ifectug11n",
+      "data": {}
+    },
+    "lm2u1ybx2htflsamts47k3t": {
+      "id": "lm2u1ybx2htflsamts47k3t",
+      "title": "Research Lifecycle",
+      "desc": "",
+      "updated": 1659993245047,
+      "created": 1659992346265,
+      "custom": {},
+      "fname": "resources.model.research-lifecycle",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e9c020a72bd26e44a5d49d87fb29af0f",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.onboading.checklist",
+            "id": "qiw43al18pmvgl9nu2wan56",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 85,
+              "column": 7,
+              "offset": 3916
+            },
+            "end": {
+              "line": 85,
+              "column": 66,
+              "offset": 3975
+            },
+            "indent": []
+          },
+          "value": "resources.model.research-lifecycle"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "uzjqfmy7rem5zfx7yxy2bz0"
+      ],
+      "parent": "mzfjmwx2d8rzoprs7gqe5mp",
+      "data": {}
+    },
+    "uzjqfmy7rem5zfx7yxy2bz0": {
+      "fname": "resources.model.research-lifecycle.funding",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845938,
+      "created": 1670450845938,
+      "id": "uzjqfmy7rem5zfx7yxy2bz0",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "j7uwdncx7ipkq86zyv3kpbt"
+      ],
+      "parent": "lm2u1ybx2htflsamts47k3t",
+      "data": {},
+      "title": "Funding"
+    },
+    "j7uwdncx7ipkq86zyv3kpbt": {
+      "id": "j7uwdncx7ipkq86zyv3kpbt",
+      "title": "Grants Management",
+      "desc": "",
+      "updated": 1660923466938,
+      "created": 1660923086505,
+      "custom": {},
+      "fname": "resources.model.research-lifecycle.funding.grants-management",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6d221282b1300fd8c011eb18a9097e5d",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "software--solutions": {
+          "type": "header",
+          "text": "Software / Solutions",
+          "value": "software--solutions",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "uzjqfmy7rem5zfx7yxy2bz0",
+      "data": {}
+    },
+    "pjgu0t7zlg0shw39reyn0jy": {
+      "fname": "resources.methodology",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845927,
+      "created": 1670450845927,
+      "id": "pjgu0t7zlg0shw39reyn0jy",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "39m0rro1doueclqnax1gdpw",
+        "yls0qr5kl2s86kb1gem5lja"
+      ],
+      "parent": "ycwu5w4i058oq8zh1cpyijv",
+      "data": {},
+      "title": "Methodology"
+    },
+    "yls0qr5kl2s86kb1gem5lja": {
+      "id": "yls0qr5kl2s86kb1gem5lja",
+      "title": "Translational Science",
+      "desc": "",
+      "updated": 1660680772215,
+      "created": 1660678644986,
+      "custom": {},
+      "fname": "resources.methodology.translational-science",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "046094a1a324256b7b22bb9150656d3f",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "pjgu0t7zlg0shw39reyn0jy",
+      "data": {}
+    },
+    "39m0rro1doueclqnax1gdpw": {
+      "id": "39m0rro1doueclqnax1gdpw",
+      "title": "Team Science",
+      "desc": "",
+      "updated": 1660678706200,
+      "created": 1660341073861,
+      "custom": {},
+      "fname": "resources.methodology.team-science",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f6486bdc2f48ecda55c915082c1cc17c",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "science-of-team-science-scits": {
+          "type": "header",
+          "text": "Science of Team Science (SciTS)",
+          "value": "science-of-team-science-scits",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "team-science": {
+          "type": "header",
+          "text": "Team Science",
+          "value": "team-science",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "science-of-team-science": {
+          "type": "header",
+          "text": "Science of Team Science",
+          "value": "science-of-team-science",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "pjgu0t7zlg0shw39reyn0jy",
+      "data": {}
+    },
+    "re3n3ua8jiu8s26om8aa38o": {
+      "fname": "resources.data",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845926,
+      "created": 1670450845926,
+      "id": "re3n3ua8jiu8s26om8aa38o",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "0skbnw9hk3715ex0fqjgckf",
+        "klprqea0qzzzvlj81q83t69",
+        "3wwnw5yrailgq75h35oeliz",
+        "ff9djwhhiec3mexs4drebek"
+      ],
+      "parent": "ycwu5w4i058oq8zh1cpyijv",
+      "data": {},
+      "title": "Data"
+    },
+    "ff9djwhhiec3mexs4drebek": {
+      "id": "ff9djwhhiec3mexs4drebek",
+      "title": "Secure Data Transfer",
+      "desc": "",
+      "updated": 1670449652088,
+      "created": 1670449158190,
+      "custom": {},
+      "fname": "resources.data.secure-data-transfer",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ae12fc8cf9145df38e74d54e6d67b4ba",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "re3n3ua8jiu8s26om8aa38o",
+      "data": {}
+    },
+    "3wwnw5yrailgq75h35oeliz": {
+      "id": "3wwnw5yrailgq75h35oeliz",
+      "title": "Health Data Compass",
+      "desc": "",
+      "updated": 1659717586634,
+      "created": 1659716960926,
+      "custom": {},
+      "fname": "resources.data.health-data-compass",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1abd3869d5977919ecc13bcb1be25e49",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "access": {
+          "type": "header",
+          "text": "Access",
+          "value": "access",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "training": {
+          "type": "header",
+          "text": "Training",
+          "value": "training",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "re3n3ua8jiu8s26om8aa38o",
+      "data": {}
+    },
+    "klprqea0qzzzvlj81q83t69": {
+      "id": "klprqea0qzzzvlj81q83t69",
+      "title": "Central Information Warehouse",
+      "desc": "",
+      "updated": 1661437431441,
+      "created": 1659717218506,
+      "custom": {},
+      "fname": "resources.data.central-information-warehouse",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c6f74446477d224fabaf80dcab007c77",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "data-model": {
+          "type": "header",
+          "text": "Data Model",
+          "value": "data-model",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "access": {
+          "type": "header",
+          "text": "Access",
+          "value": "access",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "access-requests": {
+          "type": "header",
+          "text": "Access Requests",
+          "value": "access-requests",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "schedule-and-status": {
+          "type": "header",
+          "text": "Schedule and Status",
+          "value": "schedule-and-status",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "ciw-data-sources": {
+          "type": "header",
+          "text": "CIW Data Sources",
+          "value": "ciw-data-sources",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "re3n3ua8jiu8s26om8aa38o",
+      "data": {}
+    },
+    "0skbnw9hk3715ex0fqjgckf": {
+      "id": "0skbnw9hk3715ex0fqjgckf",
+      "title": "Administrative Analysis Environment",
+      "desc": "",
+      "updated": 1659717487265,
+      "created": 1659716769308,
+      "custom": {},
+      "fname": "resources.data.administrative-analysis-environment",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "775d8ddc35a011fdf005352de9cc1dcf",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "access": {
+          "type": "header",
+          "text": "Access",
+          "value": "access",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "training": {
+          "type": "header",
+          "text": "Training",
+          "value": "training",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "re3n3ua8jiu8s26om8aa38o",
+      "data": {}
+    },
+    "vgdihf414t951bcsog765u3": {
+      "fname": "resources.compute",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845925,
+      "created": 1670450845925,
+      "id": "vgdihf414t951bcsog765u3",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "jfts4cigy6lsskwk1ps5at3"
+      ],
+      "parent": "ycwu5w4i058oq8zh1cpyijv",
+      "data": {},
+      "title": "Compute"
+    },
+    "jfts4cigy6lsskwk1ps5at3": {
+      "id": "jfts4cigy6lsskwk1ps5at3",
+      "title": "CU Boulder Summit",
+      "desc": "",
+      "updated": 1661467517331,
+      "created": 1656707430074,
+      "custom": {},
+      "fname": "resources.compute.cu-boulder-summit",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "919eb4f7a5eb5e140d97ad6775f5b240",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "cu-anschutz-access": {
+          "type": "header",
+          "text": "CU Anschutz Access",
+          "value": "cu-anschutz-access",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "vgdihf414t951bcsog765u3",
+      "data": {}
+    },
+    "5tmv1gfg7n3iyvzssedcwkk": {
+      "id": "5tmv1gfg7n3iyvzssedcwkk",
+      "title": "Tools",
+      "desc": "",
+      "updated": 1657206859371,
+      "created": 1657206859371,
+      "custom": {},
+      "fname": "tools",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3e72f482fbe51ffdeb802046d508685b",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "fhpqcia6cfvjdt6yjulbs0v",
+        "dn8ywj7ooe135pabmcowmt5",
+        "ebom0cwiuntl2spjvddb12p",
+        "ja5pjbw0xl6wz9xwthztups",
+        "b3esbhz1y6876nkj04zwy5g",
+        "zyqk7b0jbi9z9jlam1nctmp",
+        "9nphhg89vc67zg5yyjzlrq6",
+        "fwceql72j70lrfc2swolcfa",
+        "ecdt6ps5k1fnxt5ahp189gw",
+        "4b6n8v3gyky53bwuuwnx05h",
+        "j3ptjsb3k1bz0uhwyflfqx4",
+        "mhg3dw05ivmdvj7seuw67fu"
+      ],
+      "parent": "ar4f3o70zlm93rwlaw6ffog",
+      "data": {}
+    },
+    "mhg3dw05ivmdvj7seuw67fu": {
+      "fname": "tools.testing",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845931,
+      "created": 1670450845931,
+      "id": "mhg3dw05ivmdvj7seuw67fu",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hk2yakbkecoyip1jv0khmip"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {},
+      "title": "Testing"
+    },
+    "hk2yakbkecoyip1jv0khmip": {
+      "id": "hk2yakbkecoyip1jv0khmip",
+      "title": "Python",
+      "desc": "",
+      "updated": 1658444064319,
+      "created": 1658357737031,
+      "custom": {},
+      "fname": "tools.testing.python",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7b5c77d35442577fffe8f5b27a73dc1d",
+      "links": [],
+      "anchors": {
+        "testing-frameworks-or-enablers": {
+          "type": "header",
+          "text": "Testing frameworks or enablers",
+          "value": "testing-frameworks-or-enablers",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "testing-specifics": {
+          "type": "header",
+          "text": "Testing specifics",
+          "value": "testing-specifics",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "mhg3dw05ivmdvj7seuw67fu",
+      "data": {}
+    },
+    "j3ptjsb3k1bz0uhwyflfqx4": {
+      "fname": "tools.project-management",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845931,
+      "created": 1670450845931,
+      "id": "j3ptjsb3k1bz0uhwyflfqx4",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "57bo0bwym39oxsw122ppzrz"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {},
+      "title": "Project Management"
+    },
+    "57bo0bwym39oxsw122ppzrz": {
+      "id": "57bo0bwym39oxsw122ppzrz",
+      "title": "GitHub Projects",
+      "desc": "",
+      "updated": 1661463029277,
+      "created": 1661454373142,
+      "custom": {},
+      "fname": "tools.project-management.github-projects",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "812c3dac714bdf075e841857099aec53",
+      "links": [],
+      "anchors": {
+        "cross-organizational-use-for-external-issues": {
+          "type": "header",
+          "text": "Cross-Organizational Use for External Issues",
+          "value": "cross-organizational-use-for-external-issues",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "j3ptjsb3k1bz0uhwyflfqx4",
+      "data": {}
+    },
+    "4b6n8v3gyky53bwuuwnx05h": {
+      "fname": "tools.linting",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845930,
+      "created": 1670450845930,
+      "id": "4b6n8v3gyky53bwuuwnx05h",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "y50ij6pqcavxu8o834o4bgy",
+        "ycnfojglpo1lm46xwxn7zph"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {},
+      "title": "Linting"
+    },
+    "ycnfojglpo1lm46xwxn7zph": {
+      "id": "ycnfojglpo1lm46xwxn7zph",
+      "title": "Python",
+      "desc": "",
+      "updated": 1658444519471,
+      "created": 1658443306379,
+      "custom": {},
+      "fname": "tools.linting.python",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "db27826bfecc454efc67631aa1951857",
+      "links": [],
+      "anchors": {
+        "general-code-style-and-usually-more": {
+          "type": "header",
+          "text": "General Code Style (and usually more!)",
+          "value": "general-code-style-and-usually-more",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "security": {
+          "type": "header",
+          "text": "Security",
+          "value": "security",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "typing": {
+          "type": "header",
+          "text": "Typing",
+          "value": "typing",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "formatting-specific": {
+          "type": "header",
+          "text": "Formatting Specific",
+          "value": "formatting-specific",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "documentation-python-specific": {
+          "type": "header",
+          "text": "Documentation (Python-specific)",
+          "value": "documentation-python-specific",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4b6n8v3gyky53bwuuwnx05h",
+      "data": {}
+    },
+    "y50ij6pqcavxu8o834o4bgy": {
+      "id": "y50ij6pqcavxu8o834o4bgy",
+      "title": "Documentation",
+      "desc": "",
+      "updated": 1660603989484,
+      "created": 1658444256226,
+      "custom": {},
+      "fname": "tools.linting.documentation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4337b1e51d5c000569d0407c38795dfc",
+      "links": [],
+      "anchors": {
+        "general": {
+          "type": "header",
+          "text": "General",
+          "value": "general",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4b6n8v3gyky53bwuuwnx05h",
+      "data": {}
+    },
+    "ecdt6ps5k1fnxt5ahp189gw": {
+      "fname": "tools.data",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845929,
+      "created": 1670450845929,
+      "id": "ecdt6ps5k1fnxt5ahp189gw",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "703i6qsd6ggdkyc7mwg3cgp"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {},
+      "title": "Data"
+    },
+    "703i6qsd6ggdkyc7mwg3cgp": {
+      "id": "703i6qsd6ggdkyc7mwg3cgp",
+      "title": "Validation",
+      "desc": "",
+      "updated": 1660073551922,
+      "created": 1660067789900,
+      "custom": {},
+      "fname": "tools.data.validation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "575c0aed401e740b02fe827cc419c139",
+      "links": [],
+      "anchors": {
+        "schema-based-validation": {
+          "type": "header",
+          "text": "Schema-based Validation",
+          "value": "schema-based-validation",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "apache-project-based": {
+          "type": "header",
+          "text": "Apache-project Based",
+          "value": "apache-project-based",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "json-based": {
+          "type": "header",
+          "text": "JSON-based",
+          "value": "json-based",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "independent": {
+          "type": "header",
+          "text": "Independent",
+          "value": "independent",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "language": {
+          "type": "header",
+          "text": "Language",
+          "value": "language",
+          "line": 35,
+          "column": 0,
+          "depth": 3
+        },
+        "profile-based-validation": {
+          "type": "header",
+          "text": "Profile-based Validation",
+          "value": "profile-based-validation",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ecdt6ps5k1fnxt5ahp189gw",
+      "data": {}
+    },
+    "fwceql72j70lrfc2swolcfa": {
+      "fname": "tools.build",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845928,
+      "created": 1670450845928,
+      "id": "fwceql72j70lrfc2swolcfa",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "79wfvfi51lhf7b0d8z6cbft",
+        "pcs5yv15xuy81s7bjdsuxvw"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {},
+      "title": "Build"
+    },
+    "pcs5yv15xuy81s7bjdsuxvw": {
+      "fname": "tools.build.python",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845935,
+      "created": 1670450845935,
+      "id": "pcs5yv15xuy81s7bjdsuxvw",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ra5std7l9u4k030phf599ko"
+      ],
+      "parent": "fwceql72j70lrfc2swolcfa",
+      "data": {},
+      "title": "Python"
+    },
+    "ra5std7l9u4k030phf599ko": {
+      "id": "ra5std7l9u4k030phf599ko",
+      "title": "Environment",
+      "desc": "",
+      "updated": 1658268780240,
+      "created": 1658266853021,
+      "custom": {},
+      "fname": "tools.build.python.environment",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "af7bab16933bcf10b3b007fea20e2b52",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pcs5yv15xuy81s7bjdsuxvw",
+      "data": {}
+    },
+    "79wfvfi51lhf7b0d8z6cbft": {
+      "id": "79wfvfi51lhf7b0d8z6cbft",
+      "title": "Dagger",
+      "desc": "",
+      "updated": 1656540410495,
+      "created": 1656540410495,
+      "custom": {},
+      "fname": "tools.build.dagger",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1c2f9cec91eba98dc18e1ed65960c661",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "mebo859qf267oa37xdjloom",
+        "8xtpfpwacou8xzvp2rlny6p",
+        "a2269yazf508qo286jpiduz"
+      ],
+      "parent": "fwceql72j70lrfc2swolcfa",
+      "data": {}
+    },
+    "a2269yazf508qo286jpiduz": {
+      "id": "a2269yazf508qo286jpiduz",
+      "title": "Project Init",
+      "desc": "",
+      "updated": 1650657393861,
+      "created": 1650656893895,
+      "custom": {},
+      "fname": "tools.build.dagger.project-init",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "136b00c203a793624189db887636fa5c",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "steps": {
+          "type": "header",
+          "text": "Steps",
+          "value": "steps",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "79wfvfi51lhf7b0d8z6cbft",
+      "data": {}
+    },
+    "8xtpfpwacou8xzvp2rlny6p": {
+      "id": "8xtpfpwacou8xzvp2rlny6p",
+      "title": "Presentation 2022 07 07",
+      "desc": "",
+      "updated": 1654620851900,
+      "created": 1654611202381,
+      "presentation": {
+        "width": 800,
+        "height": 600,
+        "theme": "simple.css"
+      },
+      "custom": {
+        "presentation": {
+          "width": 800,
+          "height": 600,
+          "theme": "simple.css"
+        }
+      },
+      "fname": "tools.build.dagger.presentation-2022-07-07",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ea94b5f851f2c786807a911e17eb1633",
+      "links": [],
+      "anchors": {
+        "dagger": {
+          "type": "header",
+          "text": "Dagger",
+          "value": "dagger",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "portable-development--with-cuelang": {
+          "type": "header",
+          "text": "Portable Development  with Cuelang",
+          "value": "portable-development--with-cuelang",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "intro": {
+          "type": "header",
+          "text": "Intro",
+          "value": "intro",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "whats-cuelang": {
+          "type": "header",
+          "text": "What's Cuelang?",
+          "value": "whats-cuelang",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "whats-cuelang-1": {
+          "type": "header",
+          "text": "What's Cuelang?",
+          "value": "whats-cuelang-1",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "cuelang-probably-deserves--its-own-conversation-": {
+          "type": "header",
+          "text": "Cuelang probably deserves  it's own conversation! 🙂",
+          "value": "cuelang-probably-deserves--its-own-conversation-",
+          "line": 88,
+          "column": 0,
+          "depth": 3
+        },
+        "whats-dagger": {
+          "type": "header",
+          "text": "What's Dagger?",
+          "value": "whats-dagger",
+          "line": 92,
+          "column": 0,
+          "depth": 2
+        },
+        "example-usecase": {
+          "type": "header",
+          "text": "Example Usecase",
+          "value": "example-usecase",
+          "line": 110,
+          "column": 0,
+          "depth": 2
+        },
+        "installation-dagger-cli": {
+          "type": "header",
+          "text": "Installation: Dagger Cli",
+          "value": "installation-dagger-cli",
+          "line": 119,
+          "column": 0,
+          "depth": 2
+        },
+        "installation-buildkit": {
+          "type": "header",
+          "text": "Installation: Buildkit",
+          "value": "installation-buildkit",
+          "line": 129,
+          "column": 0,
+          "depth": 2
+        },
+        "demo": {
+          "type": "header",
+          "text": "Demo",
+          "value": "demo",
+          "line": 142,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "79wfvfi51lhf7b0d8z6cbft",
+      "data": {}
+    },
+    "mebo859qf267oa37xdjloom": {
+      "id": "mebo859qf267oa37xdjloom",
+      "title": "Buildkit and Podman",
+      "desc": "",
+      "updated": 1650316491323,
+      "created": 1650114759145,
+      "custom": {},
+      "fname": "tools.build.dagger.buildkit-and-podman",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9f87837ad485eb61e53b83b99975ba84",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "steps": {
+          "type": "header",
+          "text": "Steps",
+          "value": "steps",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "79wfvfi51lhf7b0d8z6cbft",
+      "data": {}
+    },
+    "9nphhg89vc67zg5yyjzlrq6": {
+      "id": "9nphhg89vc67zg5yyjzlrq6",
+      "title": "Workflow",
+      "desc": "",
+      "updated": 1657060978055,
+      "created": 1652379988779,
+      "custom": {},
+      "fname": "tools.workflow",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b433652a259ed8b6004a4f03db73683f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "zyqk7b0jbi9z9jlam1nctmp": {
+      "id": "zyqk7b0jbi9z9jlam1nctmp",
+      "title": "Measurement",
+      "desc": "",
+      "updated": 1662233213321,
+      "created": 1662232904741,
+      "custom": {},
+      "fname": "tools.measurement",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9657a30aa23bc0d9c35e212a9341b083",
+      "links": [],
+      "anchors": {
+        "measures": {
+          "type": "header",
+          "text": "Measures",
+          "value": "measures",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "performance": {
+          "type": "header",
+          "text": "Performance",
+          "value": "performance",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "b3esbhz1y6876nkj04zwy5g": {
+      "id": "b3esbhz1y6876nkj04zwy5g",
+      "title": "Leaning Management",
+      "desc": "",
+      "updated": 1662156338885,
+      "created": 1662156134038,
+      "custom": {},
+      "fname": "tools.leaning-management",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9454214ffd46a7f5f3bbb09426cbfa76",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "ja5pjbw0xl6wz9xwthztups": {
+      "id": "ja5pjbw0xl6wz9xwthztups",
+      "title": "K8s",
+      "desc": "",
+      "updated": 1656540410525,
+      "created": 1656540410525,
+      "custom": {},
+      "fname": "tools.k8s",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ae60383962e75ce1961e4756f62a0f21",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "l1pa3h6amzhd5d46lv732h6"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "l1pa3h6amzhd5d46lv732h6": {
+      "id": "l1pa3h6amzhd5d46lv732h6",
+      "title": "Knative",
+      "desc": "",
+      "updated": 1656540410525,
+      "created": 1656540410525,
+      "custom": {},
+      "fname": "tools.k8s.knative",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3d6ea14f595bd268147efebe481cf131",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "6kp5i2u5lx4huw8m599c3ld"
+      ],
+      "parent": "ja5pjbw0xl6wz9xwthztups",
+      "data": {}
+    },
+    "6kp5i2u5lx4huw8m599c3ld": {
+      "id": "6kp5i2u5lx4huw8m599c3ld",
+      "title": "Install",
+      "desc": "",
+      "updated": 1647553228074,
+      "created": 1647552466698,
+      "custom": {},
+      "fname": "tools.k8s.knative.install",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c56a47d1c8d4515a1a4ff207bbd81d5c",
+      "links": [],
+      "anchors": {
+        "prerequisites-and-tools": {
+          "type": "header",
+          "text": "Prerequisites and Tools",
+          "value": "prerequisites-and-tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "install-kubernetes-control-plane-and-workers": {
+          "type": "header",
+          "text": "Install Kubernetes Control Plane and Workers",
+          "value": "install-kubernetes-control-plane-and-workers",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "install-knative": {
+          "type": "header",
+          "text": "Install knative",
+          "value": "install-knative",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "knative-serving": {
+          "type": "header",
+          "text": "knative-serving",
+          "value": "knative-serving",
+          "line": 64,
+          "column": 0,
+          "depth": 3
+        },
+        "knative-eventing": {
+          "type": "header",
+          "text": "knative-eventing",
+          "value": "knative-eventing",
+          "line": 94,
+          "column": 0,
+          "depth": 3
+        },
+        "configure-tls": {
+          "type": "header",
+          "text": "Configure TLS",
+          "value": "configure-tls",
+          "line": 102,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "l1pa3h6amzhd5d46lv732h6",
+      "data": {}
+    },
+    "ebom0cwiuntl2spjvddb12p": {
+      "id": "ebom0cwiuntl2spjvddb12p",
+      "title": "Documentation",
+      "desc": "",
+      "updated": 1659720519340,
+      "created": 1659714632385,
+      "custom": {},
+      "fname": "tools.documentation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "79fbfa7cbec7be62e215de1fa949e40b",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tools.documentation",
+            "id": "ebom0cwiuntl2spjvddb12p",
+            "vaultName": "vault"
+          },
+          "value": "tools.diagrams",
+          "alias": "Link: Diagramming Languages",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 207
+            },
+            "end": {
+              "line": 10,
+              "column": 62,
+              "offset": 266
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tools.diagrams",
+            "anchorHeader": "code-based"
+          }
+        }
+      ],
+      "anchors": {
+        "languages": {
+          "type": "header",
+          "text": "Languages",
+          "value": "languages",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "api-focused-static-site-generators": {
+          "type": "header",
+          "text": "API-focused Static Site Generators",
+          "value": "api-focused-static-site-generators",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "wiki-focused-static-site-generators": {
+          "type": "header",
+          "text": "Wiki-focused Static Site Generators",
+          "value": "wiki-focused-static-site-generators",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "hosting": {
+          "type": "header",
+          "text": "Hosting",
+          "value": "hosting",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "kplcl3a8f7e101wf0y16dtl"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "kplcl3a8f7e101wf0y16dtl": {
+      "fname": "tools.documentation.dendron",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845937,
+      "created": 1670450845937,
+      "id": "kplcl3a8f7e101wf0y16dtl",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "55uhtybzlvjyf52nss8mn0f"
+      ],
+      "parent": "ebom0cwiuntl2spjvddb12p",
+      "data": {},
+      "title": "Dendron"
+    },
+    "55uhtybzlvjyf52nss8mn0f": {
+      "id": "55uhtybzlvjyf52nss8mn0f",
+      "title": "Create Note from Jupyter Notebook",
+      "desc": "",
+      "updated": 1656710739876,
+      "created": 1656710030205,
+      "custom": {},
+      "fname": "tools.documentation.dendron.create-note-from-jupyter-notebook",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "01c04343dd85e3b5ff338b95eb6923c9",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "process": {
+          "type": "header",
+          "text": "Process",
+          "value": "process",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "kplcl3a8f7e101wf0y16dtl",
+      "data": {}
+    },
+    "dn8ywj7ooe135pabmcowmt5": {
+      "id": "dn8ywj7ooe135pabmcowmt5",
+      "title": "Diagrams",
+      "desc": "",
+      "updated": 1659715734711,
+      "created": 1657316844505,
+      "custom": {},
+      "fname": "tools.diagrams",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7eed1dfcee33637856519356cc833667",
+      "links": [
+        {
+          "from": {
+            "fname": "tools.documentation",
+            "id": "ebom0cwiuntl2spjvddb12p",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 207
+            },
+            "end": {
+              "line": 10,
+              "column": 62,
+              "offset": 266
+            },
+            "indent": []
+          },
+          "value": "tools.diagrams"
+        }
+      ],
+      "anchors": {
+        "code-based": {
+          "type": "header",
+          "text": "Code-based",
+          "value": "code-based",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "free-form": {
+          "type": "header",
+          "text": "Free-form",
+          "value": "free-form",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "aggregatemixed": {
+          "type": "header",
+          "text": "Aggregate/Mixed",
+          "value": "aggregatemixed",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "32ni6bzkrcz7jkrs3fbsega"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "32ni6bzkrcz7jkrs3fbsega": {
+      "fname": "tools.diagrams.mermaid",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845936,
+      "created": 1670450845936,
+      "id": "32ni6bzkrcz7jkrs3fbsega",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "2trgt4pbjn65t1yigsqxm37"
+      ],
+      "parent": "dn8ywj7ooe135pabmcowmt5",
+      "data": {},
+      "title": "Mermaid"
+    },
+    "2trgt4pbjn65t1yigsqxm37": {
+      "id": "2trgt4pbjn65t1yigsqxm37",
+      "title": "Mermaid Style Workarounds",
+      "desc": "",
+      "updated": 1660759877803,
+      "created": 1660758903830,
+      "custom": {},
+      "fname": "tools.diagrams.mermaid.mermaid-style-workarounds",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c2f9d1c0d2116f13f3e3532acef347af",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "flowchart-font-size": {
+          "type": "header",
+          "text": "Flowchart Font Size",
+          "value": "flowchart-font-size",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "flowchart-subgraph-padding-or-margin": {
+          "type": "header",
+          "text": "Flowchart Subgraph Padding or Margin",
+          "value": "flowchart-subgraph-padding-or-margin",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "32ni6bzkrcz7jkrs3fbsega",
+      "data": {}
+    },
+    "fhpqcia6cfvjdt6yjulbs0v": {
+      "id": "fhpqcia6cfvjdt6yjulbs0v",
+      "title": "Data Visualization",
+      "desc": "",
+      "updated": 1667490344810,
+      "created": 1661442101759,
+      "custom": {},
+      "fname": "tools.data-visualization",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6194025add99d625497d05f3cedfe14a",
+      "links": [],
+      "anchors": {
+        "visualization-dashboarding-or-platform-tools": {
+          "type": "header",
+          "text": "Visualization Dashboarding or Platform Tools",
+          "value": "visualization-dashboarding-or-platform-tools",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "visualization-libraries": {
+          "type": "header",
+          "text": "Visualization Libraries",
+          "value": "visualization-libraries",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "graph-or-network-visualization": {
+          "type": "header",
+          "text": "Graph or Network Visualization",
+          "value": "graph-or-network-visualization",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "urgb7nmksr3izpnx82iuoxu"
+      ],
+      "parent": "5tmv1gfg7n3iyvzssedcwkk",
+      "data": {}
+    },
+    "urgb7nmksr3izpnx82iuoxu": {
+      "id": "urgb7nmksr3izpnx82iuoxu",
+      "title": "Tableau and Power BI Comparison",
+      "desc": "",
+      "updated": 1668120482024,
+      "created": 1667486780981,
+      "custom": {},
+      "fname": "tools.data-visualization.tableau-and-powerbi-comparison",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a058d7989cb846521d2bd5ed36fc52bd",
+      "links": [],
+      "anchors": {
+        "key-questions": {
+          "type": "header",
+          "text": "Key Questions",
+          "value": "key-questions",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "feature-comparisons": {
+          "type": "header",
+          "text": "Feature Comparisons",
+          "value": "feature-comparisons",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "pricing": {
+          "type": "header",
+          "text": "Pricing",
+          "value": "pricing",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "data-sources": {
+          "type": "header",
+          "text": "Data Sources",
+          "value": "data-sources",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "visualization-type-support": {
+          "type": "header",
+          "text": "Visualization Type Support",
+          "value": "visualization-type-support",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "programming-languages": {
+          "type": "header",
+          "text": "Programming Languages",
+          "value": "programming-languages",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "further-reading": {
+          "type": "header",
+          "text": "Further Reading",
+          "value": "further-reading",
+          "line": 57,
+          "column": 0,
+          "depth": 2
+        },
+        "other-alternatives": {
+          "type": "header",
+          "text": "Other Alternatives",
+          "value": "other-alternatives",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "fhpqcia6cfvjdt6yjulbs0v",
+      "data": {}
+    },
+    "t4lf8cc2kvpzurjwl6pnuju": {
+      "id": "t4lf8cc2kvpzurjwl6pnuju",
+      "title": "Apps",
+      "desc": "",
+      "updated": 1656540410486,
+      "created": 1656540410486,
+      "custom": {},
+      "fname": "apps",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9fdc6b526d5a8551b5584d0eae89cb03",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "lu1kpevz2ad8zqmizeayr9n",
+        "3siin7c7fy1pafx030cic2n"
+      ],
+      "parent": "ar4f3o70zlm93rwlaw6ffog",
+      "data": {}
+    },
+    "3siin7c7fy1pafx030cic2n": {
+      "id": "3siin7c7fy1pafx030cic2n",
+      "title": "Mondaydotcom",
+      "desc": "",
+      "updated": 1657207309361,
+      "created": 1656540410487,
+      "custom": {},
+      "fname": "apps.mondaydotcom",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3d2e26cf70aea0c8fdf07888ba8985ea",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "apps.mondaydotcom",
+            "id": "3siin7c7fy1pafx030cic2n",
+            "vaultName": "vault"
+          },
+          "value": "apps.Smartsheet",
+          "alias": "Smartsheet",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 136,
+              "offset": 136
+            },
+            "end": {
+              "line": 2,
+              "column": 180,
+              "offset": 180
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "apps.Smartsheet",
+            "anchorHeader": "^w7ccyzh70hn9"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "xk8t3c1li66ztgrr8umm4pq"
+      ],
+      "parent": "t4lf8cc2kvpzurjwl6pnuju",
+      "data": {}
+    },
+    "xk8t3c1li66ztgrr8umm4pq": {
+      "id": "xk8t3c1li66ztgrr8umm4pq",
+      "title": "Sketch",
+      "desc": "",
+      "updated": 1656540410487,
+      "created": 1656540410487,
+      "custom": {},
+      "fname": "apps.mondaydotcom.sketch",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7da672412161c38182bbac63183b6253",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5v96sd8ll7el90tbxx7qj64"
+      ],
+      "parent": "3siin7c7fy1pafx030cic2n",
+      "data": {}
+    },
+    "5v96sd8ll7el90tbxx7qj64": {
+      "id": "5v96sd8ll7el90tbxx7qj64",
+      "title": "Work Visibility Reports",
+      "desc": "",
+      "updated": 1650049583676,
+      "created": 1650049448834,
+      "custom": {},
+      "fname": "apps.mondaydotcom.sketch.work-visibility-reports",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e89461873b93a8b11cefb5f6fba09aec",
+      "links": [],
+      "anchors": {
+        "background": {
+          "type": "header",
+          "text": "Background",
+          "value": "background",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "challenge": {
+          "type": "header",
+          "text": "Challenge",
+          "value": "challenge",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "porposed-solutions": {
+          "type": "header",
+          "text": "Porposed Solution(s)",
+          "value": "porposed-solutions",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "proposed-flow-1": {
+          "type": "header",
+          "text": "Proposed Flow 1",
+          "value": "proposed-flow-1",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "proposed-flow-2": {
+          "type": "header",
+          "text": "Proposed Flow 2",
+          "value": "proposed-flow-2",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "xk8t3c1li66ztgrr8umm4pq",
+      "data": {}
+    },
+    "lu1kpevz2ad8zqmizeayr9n": {
+      "id": "lu1kpevz2ad8zqmizeayr9n",
+      "title": "Smartsheet",
+      "desc": "",
+      "updated": 1657207299501,
+      "created": 1657207097317,
+      "custom": {},
+      "fname": "apps.Smartsheet",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "00af28825e18b75ae4751b23d83f3b63",
+      "links": [
+        {
+          "from": {
+            "fname": "apps.mondaydotcom",
+            "id": "3siin7c7fy1pafx030cic2n",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 136,
+              "offset": 136
+            },
+            "end": {
+              "line": 2,
+              "column": 180,
+              "offset": 180
+            },
+            "indent": []
+          },
+          "value": "apps.Smartsheet"
+        }
+      ],
+      "anchors": {
+        "^w7ccyzh70hn9": {
+          "type": "block",
+          "value": "w7ccyzh70hn9",
+          "line": 8,
+          "column": 113
+        }
+      },
+      "children": [],
+      "parent": "t4lf8cc2kvpzurjwl6pnuju",
+      "data": {}
+    },
+    "0lzc0dvuck7s5d6wbu012jz": {
+      "id": "0lzc0dvuck7s5d6wbu012jz",
+      "title": "Admin",
+      "desc": "",
+      "updated": 1656540410475,
+      "created": 1656540410475,
+      "custom": {},
+      "fname": "admin",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9b182daa5243467b8bdb3e75e1f69782",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "2zxhjtowvby865y7cpeeef6",
+        "kkf8lxkcchfmlebdizcxrd2",
+        "aan2q7m3s1xt4owfqtb9qb4"
+      ],
+      "parent": "ar4f3o70zlm93rwlaw6ffog",
+      "data": {}
+    },
+    "aan2q7m3s1xt4owfqtb9qb4": {
+      "fname": "admin.organization",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1670450845924,
+      "created": 1670450845924,
+      "id": "aan2q7m3s1xt4owfqtb9qb4",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ehrsczzltmodj2i6v83owig"
+      ],
+      "parent": "0lzc0dvuck7s5d6wbu012jz",
+      "data": {},
+      "title": "Organization"
+    },
+    "ehrsczzltmodj2i6v83owig": {
+      "id": "ehrsczzltmodj2i6v83owig",
+      "title": "Organizational Charts and People",
+      "desc": "",
+      "updated": 1659730227919,
+      "created": 1659717689682,
+      "custom": {},
+      "fname": "admin.organization.organizational-charts-and-people",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "18fde6e190832c06ea03cc8775f336c2",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "university-of-colorado-anschutz": {
+          "type": "header",
+          "text": "University of Colorado Anschutz",
+          "value": "university-of-colorado-anschutz",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "office-of-information-technology": {
+          "type": "header",
+          "text": "Office of Information Technology",
+          "value": "office-of-information-technology",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "school-of-medicine": {
+          "type": "header",
+          "text": "School of Medicine",
+          "value": "school-of-medicine",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "administration": {
+          "type": "header",
+          "text": "Administration",
+          "value": "administration",
+          "line": 20,
+          "column": 0,
+          "depth": 4
+        },
+        "information-services": {
+          "type": "header",
+          "text": "Information Services",
+          "value": "information-services",
+          "line": 24,
+          "column": 0,
+          "depth": 4
+        },
+        "department-of-biomedical-informatics": {
+          "type": "header",
+          "text": "Department of Biomedical Informatics",
+          "value": "department-of-biomedical-informatics",
+          "line": 28,
+          "column": 0,
+          "depth": 4
+        },
+        "university-of-colorado-boulder": {
+          "type": "header",
+          "text": "University of Colorado Boulder",
+          "value": "university-of-colorado-boulder",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "research--innovation-office": {
+          "type": "header",
+          "text": "Research & Innovation Office",
+          "value": "research--innovation-office",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "research-computing": {
+          "type": "header",
+          "text": "Research Computing",
+          "value": "research-computing",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        },
+        "university-of-colorado-system---uis": {
+          "type": "header",
+          "text": "University of Colorado System - UIS",
+          "value": "university-of-colorado-system---uis",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "aan2q7m3s1xt4owfqtb9qb4",
+      "data": {}
+    },
+    "kkf8lxkcchfmlebdizcxrd2": {
+      "id": "kkf8lxkcchfmlebdizcxrd2",
+      "title": "Onboading",
+      "desc": "",
+      "updated": 1656540410478,
+      "created": 1656540410478,
+      "custom": {},
+      "fname": "admin.onboading",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "48b91f86a9fc8762939f954f79757f1c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "qiw43al18pmvgl9nu2wan56"
+      ],
+      "parent": "0lzc0dvuck7s5d6wbu012jz",
+      "data": {}
+    },
+    "qiw43al18pmvgl9nu2wan56": {
+      "id": "qiw43al18pmvgl9nu2wan56",
+      "title": "Checklist",
+      "desc": "",
+      "updated": 1662232774202,
+      "created": 1652453004238,
+      "custom": {},
+      "fname": "admin.onboading.checklist",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4abc8dac2b213bdf05730b2154652bad",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.onboading.checklist",
+            "id": "qiw43al18pmvgl9nu2wan56",
+            "vaultName": "vault"
+          },
+          "value": "admin.email-signature",
+          "alias": "Email Signature Guidance",
+          "position": {
+            "start": {
+              "line": 66,
+              "column": 7,
+              "offset": 3119
+            },
+            "end": {
+              "line": 66,
+              "column": 59,
+              "offset": 3171
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.email-signature"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.onboading.checklist",
+            "id": "qiw43al18pmvgl9nu2wan56",
+            "vaultName": "vault"
+          },
+          "value": "resources.model.research-lifecycle",
+          "alias": "Research Lifecycle",
+          "position": {
+            "start": {
+              "line": 85,
+              "column": 7,
+              "offset": 3916
+            },
+            "end": {
+              "line": 85,
+              "column": 66,
+              "offset": 3975
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.model.research-lifecycle"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "ar4f3o70zlm93rwlaw6ffog",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 54,
+              "offset": 209
+            },
+            "end": {
+              "line": 5,
+              "column": 177,
+              "offset": 332
+            },
+            "indent": []
+          },
+          "value": "admin.onboading.checklist"
+        }
+      ],
+      "anchors": {
+        "software-engineering-team-onboarding-checklist": {
+          "type": "header",
+          "text": "Software Engineering Team Onboarding Checklist",
+          "value": "software-engineering-team-onboarding-checklist",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 9,
+          "column": 0,
+          "depth": 3
+        },
+        "getting-started": {
+          "type": "header",
+          "text": "Getting Started",
+          "value": "getting-started",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "required-forms-and-payroll": {
+          "type": "header",
+          "text": "Required Forms and Payroll",
+          "value": "required-forms-and-payroll",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "benefits--time-off": {
+          "type": "header",
+          "text": "Benefits / Time Off",
+          "value": "benefits--time-off",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "commuting": {
+          "type": "header",
+          "text": "Commuting",
+          "value": "commuting",
+          "line": 36,
+          "column": 0,
+          "depth": 3
+        },
+        "training--certification": {
+          "type": "header",
+          "text": "Training & Certification",
+          "value": "training--certification",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "general-access": {
+          "type": "header",
+          "text": "General Access",
+          "value": "general-access",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "informational": {
+          "type": "header",
+          "text": "Informational",
+          "value": "informational",
+          "line": 81,
+          "column": 0,
+          "depth": 3
+        },
+        "research-computing-resources": {
+          "type": "header",
+          "text": "Research Computing Resources",
+          "value": "research-computing-resources",
+          "line": 100,
+          "column": 0,
+          "depth": 3
+        },
+        "team-policies--cadence--schedule": {
+          "type": "header",
+          "text": "Team Policies / Cadence / Schedule",
+          "value": "team-policies--cadence--schedule",
+          "line": 109,
+          "column": 0,
+          "depth": 3
+        },
+        "data-governance": {
+          "type": "header",
+          "text": "Data Governance",
+          "value": "data-governance",
+          "line": 120,
+          "column": 0,
+          "depth": 3
+        },
+        "^pstts4z91zvt": {
+          "type": "block",
+          "value": "pstts4z91zvt",
+          "line": 11,
+          "column": 148
+        }
+      },
+      "children": [],
+      "parent": "kkf8lxkcchfmlebdizcxrd2",
+      "data": {}
+    },
+    "2zxhjtowvby865y7cpeeef6": {
+      "id": "2zxhjtowvby865y7cpeeef6",
+      "title": "Email Signature",
+      "desc": "",
+      "updated": 1657316772933,
+      "created": 1657314832781,
+      "custom": {},
+      "fname": "admin.email-signature",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "00dd9dd3999c191f485a8df8cf65c137",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.onboading.checklist",
+            "id": "qiw43al18pmvgl9nu2wan56",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 66,
+              "column": 7,
+              "offset": 3119
+            },
+            "end": {
+              "line": 66,
+              "column": 59,
+              "offset": 3171
+            },
+            "indent": []
+          },
+          "value": "admin.email-signature"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "0lzc0dvuck7s5d6wbu012jz",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ar4f3o70zlm93rwlaw6ffog",
+      "title": "Home",
+      "desc": "",
+      "updated": 1656532071823,
+      "created": 1652299104094,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e67bc61669393c88f0f55ffa38bb22d6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ar4f3o70zlm93rwlaw6ffog",
+            "vaultName": "vault"
+          },
+          "value": "admin.onboading.checklist",
+          "alias": "Software Engineering Team Onboarding Checklist",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 54,
+              "offset": 209
+            },
+            "end": {
+              "line": 5,
+              "column": 177,
+              "offset": 332
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.onboading.checklist",
+            "anchorHeader": "software-engineering-team-onboarding-checklist"
+          }
+        }
+      ],
+      "anchors": {
+        "welcome": {
+          "type": "header",
+          "text": "Welcome",
+          "value": "welcome",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "0lzc0dvuck7s5d6wbu012jz",
+        "t4lf8cc2kvpzurjwl6pnuju",
+        "5tmv1gfg7n3iyvzssedcwkk",
+        "ycwu5w4i058oq8zh1cpyijv",
+        "tjkae9vlw7qtsimshpuwwad"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## Welcome\n\nThis is the root page for the Software Engineering Team's (SET) notegraph. This content is organized using [Dendron](https://www.dendron.so/).\n\nNew team member onboarding should use the checklist: [[Software Engineering Team Onboarding Checklist|admin.onboading.checklist#software-engineering-team-onboarding-checklist]]"
+    }
+  ],
+  "noteIndex": {
+    "id": "ar4f3o70zlm93rwlaw6ffog",
+    "title": "Home",
+    "desc": "",
+    "updated": 1656532071823,
+    "created": 1652299104094,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "e67bc61669393c88f0f55ffa38bb22d6",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "ar4f3o70zlm93rwlaw6ffog",
+          "vaultName": "vault"
+        },
+        "value": "admin.onboading.checklist",
+        "alias": "Software Engineering Team Onboarding Checklist",
+        "position": {
+          "start": {
+            "line": 5,
+            "column": 54,
+            "offset": 209
+          },
+          "end": {
+            "line": 5,
+            "column": 177,
+            "offset": 332
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "admin.onboading.checklist",
+          "anchorHeader": "software-engineering-team-onboarding-checklist"
+        }
+      }
+    ],
+    "anchors": {
+      "welcome": {
+        "type": "header",
+        "text": "Welcome",
+        "value": "welcome",
+        "line": 7,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "0lzc0dvuck7s5d6wbu012jz",
+      "t4lf8cc2kvpzurjwl6pnuju",
+      "5tmv1gfg7n3iyvzssedcwkk",
+      "ycwu5w4i058oq8zh1cpyijv",
+      "tjkae9vlw7qtsimshpuwwad"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## Welcome\n\nThis is the root page for the Software Engineering Team's (SET) notegraph. This content is organized using [Dendron](https://www.dendron.so/).\n\nNew team member onboarding should use the checklist: [[Software Engineering Team Onboarding Checklist|admin.onboading.checklist#software-engineering-team-onboarding-checklist]]"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

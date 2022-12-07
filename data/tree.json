@@ -1,0 +1,701 @@
+{
+  "roots": [
+    {
+      "key": "0lzc0dvuck7s5d6wbu012jz",
+      "title": "Admin",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "2zxhjtowvby865y7cpeeef6",
+          "title": "Email Signature",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "kkf8lxkcchfmlebdizcxrd2",
+          "title": "Onboading",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "qiw43al18pmvgl9nu2wan56",
+              "title": "Checklist",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "aan2q7m3s1xt4owfqtb9qb4",
+          "title": "Organization",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "ehrsczzltmodj2i6v83owig",
+              "title": "Organizational Charts and People",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "t4lf8cc2kvpzurjwl6pnuju",
+      "title": "Apps",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "lu1kpevz2ad8zqmizeayr9n",
+          "title": "Smartsheet",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "3siin7c7fy1pafx030cic2n",
+          "title": "Mondaydotcom",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "xk8t3c1li66ztgrr8umm4pq",
+              "title": "Sketch",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "5v96sd8ll7el90tbxx7qj64",
+                  "title": "Work Visibility Reports",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ycwu5w4i058oq8zh1cpyijv",
+      "title": "Resources",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "vgdihf414t951bcsog765u3",
+          "title": "Compute",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "jfts4cigy6lsskwk1ps5at3",
+              "title": "CU Boulder Summit",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "re3n3ua8jiu8s26om8aa38o",
+          "title": "Data",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "0skbnw9hk3715ex0fqjgckf",
+              "title": "Administrative Analysis Environment",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "klprqea0qzzzvlj81q83t69",
+              "title": "Central Information Warehouse",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "3wwnw5yrailgq75h35oeliz",
+              "title": "Health Data Compass",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "ff9djwhhiec3mexs4drebek",
+              "title": "Secure Data Transfer",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "pjgu0t7zlg0shw39reyn0jy",
+          "title": "Methodology",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "39m0rro1doueclqnax1gdpw",
+              "title": "Team Science",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "yls0qr5kl2s86kb1gem5lja",
+              "title": "Translational Science",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "mzfjmwx2d8rzoprs7gqe5mp",
+          "title": "Model",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "rjuen63qy1zg8ifectug11n",
+              "title": "Data Mining",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "6x2k7n4bgtx538q1ndb17x9",
+                  "title": "Knowledge Discovery in Databases",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "lm2u1ybx2htflsamts47k3t",
+              "title": "Research Lifecycle",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "uzjqfmy7rem5zfx7yxy2bz0",
+                  "title": "Funding",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "j7uwdncx7ipkq86zyv3kpbt",
+                      "title": "Grants Management",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "el957bu25wfbtaukdjuer4u",
+          "title": "Personnel",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "92b7jouxy4rof6klx4wi9eq",
+              "title": "Communities",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "5922fk61gcmn7l2khb3us62",
+                  "title": "West Big Data Innovation Hub",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "2npzv0koepi5gtumota9239",
+              "title": "Research Network",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "5tmv1gfg7n3iyvzssedcwkk",
+      "title": "Tools",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "fwceql72j70lrfc2swolcfa",
+          "title": "Build",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "79wfvfi51lhf7b0d8z6cbft",
+              "title": "Dagger",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "mebo859qf267oa37xdjloom",
+                  "title": "Buildkit and Podman",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "8xtpfpwacou8xzvp2rlny6p",
+                  "title": "Presentation 2022 07 07",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "a2269yazf508qo286jpiduz",
+                  "title": "Project Init",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "pcs5yv15xuy81s7bjdsuxvw",
+              "title": "Python",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "ra5std7l9u4k030phf599ko",
+                  "title": "Environment",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ecdt6ps5k1fnxt5ahp189gw",
+          "title": "Data",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "703i6qsd6ggdkyc7mwg3cgp",
+              "title": "Validation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "fhpqcia6cfvjdt6yjulbs0v",
+          "title": "Data Visualization",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "urgb7nmksr3izpnx82iuoxu",
+              "title": "Tableau and Power BI Comparison",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "dn8ywj7ooe135pabmcowmt5",
+          "title": "Diagrams",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "32ni6bzkrcz7jkrs3fbsega",
+              "title": "Mermaid",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "2trgt4pbjn65t1yigsqxm37",
+                  "title": "Mermaid Style Workarounds",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ebom0cwiuntl2spjvddb12p",
+          "title": "Documentation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "kplcl3a8f7e101wf0y16dtl",
+              "title": "Dendron",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "55uhtybzlvjyf52nss8mn0f",
+                  "title": "Create Note from Jupyter Notebook",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "ja5pjbw0xl6wz9xwthztups",
+          "title": "K8s",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "l1pa3h6amzhd5d46lv732h6",
+              "title": "Knative",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "6kp5i2u5lx4huw8m599c3ld",
+                  "title": "Install",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "b3esbhz1y6876nkj04zwy5g",
+          "title": "Leaning Management",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "4b6n8v3gyky53bwuuwnx05h",
+          "title": "Linting",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "y50ij6pqcavxu8o834o4bgy",
+              "title": "Documentation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "ycnfojglpo1lm46xwxn7zph",
+              "title": "Python",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "zyqk7b0jbi9z9jlam1nctmp",
+          "title": "Measurement",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "j3ptjsb3k1bz0uhwyflfqx4",
+          "title": "Project Management",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "57bo0bwym39oxsw122ppzrz",
+              "title": "GitHub Projects",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "mhg3dw05ivmdvj7seuw67fu",
+          "title": "Testing",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "hk2yakbkecoyip1jv0khmip",
+              "title": "Python",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "9nphhg89vc67zg5yyjzlrq6",
+          "title": "Workflow",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "tjkae9vlw7qtsimshpuwwad",
+      "title": "Training",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "a7v2mbr6rhgkmnr86boxnti",
+          "title": "Google",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "tnt03zf4re4d2cehjw6ds9k",
+              "title": "Digital Leader",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "0lzc0dvuck7s5d6wbu012jz": null,
+    "2zxhjtowvby865y7cpeeef6": "0lzc0dvuck7s5d6wbu012jz",
+    "kkf8lxkcchfmlebdizcxrd2": "0lzc0dvuck7s5d6wbu012jz",
+    "qiw43al18pmvgl9nu2wan56": "kkf8lxkcchfmlebdizcxrd2",
+    "aan2q7m3s1xt4owfqtb9qb4": "0lzc0dvuck7s5d6wbu012jz",
+    "ehrsczzltmodj2i6v83owig": "aan2q7m3s1xt4owfqtb9qb4",
+    "t4lf8cc2kvpzurjwl6pnuju": null,
+    "lu1kpevz2ad8zqmizeayr9n": "t4lf8cc2kvpzurjwl6pnuju",
+    "3siin7c7fy1pafx030cic2n": "t4lf8cc2kvpzurjwl6pnuju",
+    "xk8t3c1li66ztgrr8umm4pq": "3siin7c7fy1pafx030cic2n",
+    "5v96sd8ll7el90tbxx7qj64": "xk8t3c1li66ztgrr8umm4pq",
+    "ycwu5w4i058oq8zh1cpyijv": null,
+    "vgdihf414t951bcsog765u3": "ycwu5w4i058oq8zh1cpyijv",
+    "jfts4cigy6lsskwk1ps5at3": "vgdihf414t951bcsog765u3",
+    "re3n3ua8jiu8s26om8aa38o": "ycwu5w4i058oq8zh1cpyijv",
+    "0skbnw9hk3715ex0fqjgckf": "re3n3ua8jiu8s26om8aa38o",
+    "klprqea0qzzzvlj81q83t69": "re3n3ua8jiu8s26om8aa38o",
+    "3wwnw5yrailgq75h35oeliz": "re3n3ua8jiu8s26om8aa38o",
+    "ff9djwhhiec3mexs4drebek": "re3n3ua8jiu8s26om8aa38o",
+    "pjgu0t7zlg0shw39reyn0jy": "ycwu5w4i058oq8zh1cpyijv",
+    "39m0rro1doueclqnax1gdpw": "pjgu0t7zlg0shw39reyn0jy",
+    "yls0qr5kl2s86kb1gem5lja": "pjgu0t7zlg0shw39reyn0jy",
+    "mzfjmwx2d8rzoprs7gqe5mp": "ycwu5w4i058oq8zh1cpyijv",
+    "rjuen63qy1zg8ifectug11n": "mzfjmwx2d8rzoprs7gqe5mp",
+    "6x2k7n4bgtx538q1ndb17x9": "rjuen63qy1zg8ifectug11n",
+    "lm2u1ybx2htflsamts47k3t": "mzfjmwx2d8rzoprs7gqe5mp",
+    "uzjqfmy7rem5zfx7yxy2bz0": "lm2u1ybx2htflsamts47k3t",
+    "j7uwdncx7ipkq86zyv3kpbt": "uzjqfmy7rem5zfx7yxy2bz0",
+    "el957bu25wfbtaukdjuer4u": "ycwu5w4i058oq8zh1cpyijv",
+    "92b7jouxy4rof6klx4wi9eq": "el957bu25wfbtaukdjuer4u",
+    "5922fk61gcmn7l2khb3us62": "92b7jouxy4rof6klx4wi9eq",
+    "2npzv0koepi5gtumota9239": "el957bu25wfbtaukdjuer4u",
+    "5tmv1gfg7n3iyvzssedcwkk": null,
+    "fwceql72j70lrfc2swolcfa": "5tmv1gfg7n3iyvzssedcwkk",
+    "79wfvfi51lhf7b0d8z6cbft": "fwceql72j70lrfc2swolcfa",
+    "mebo859qf267oa37xdjloom": "79wfvfi51lhf7b0d8z6cbft",
+    "8xtpfpwacou8xzvp2rlny6p": "79wfvfi51lhf7b0d8z6cbft",
+    "a2269yazf508qo286jpiduz": "79wfvfi51lhf7b0d8z6cbft",
+    "pcs5yv15xuy81s7bjdsuxvw": "fwceql72j70lrfc2swolcfa",
+    "ra5std7l9u4k030phf599ko": "pcs5yv15xuy81s7bjdsuxvw",
+    "ecdt6ps5k1fnxt5ahp189gw": "5tmv1gfg7n3iyvzssedcwkk",
+    "703i6qsd6ggdkyc7mwg3cgp": "ecdt6ps5k1fnxt5ahp189gw",
+    "fhpqcia6cfvjdt6yjulbs0v": "5tmv1gfg7n3iyvzssedcwkk",
+    "urgb7nmksr3izpnx82iuoxu": "fhpqcia6cfvjdt6yjulbs0v",
+    "dn8ywj7ooe135pabmcowmt5": "5tmv1gfg7n3iyvzssedcwkk",
+    "32ni6bzkrcz7jkrs3fbsega": "dn8ywj7ooe135pabmcowmt5",
+    "2trgt4pbjn65t1yigsqxm37": "32ni6bzkrcz7jkrs3fbsega",
+    "ebom0cwiuntl2spjvddb12p": "5tmv1gfg7n3iyvzssedcwkk",
+    "kplcl3a8f7e101wf0y16dtl": "ebom0cwiuntl2spjvddb12p",
+    "55uhtybzlvjyf52nss8mn0f": "kplcl3a8f7e101wf0y16dtl",
+    "ja5pjbw0xl6wz9xwthztups": "5tmv1gfg7n3iyvzssedcwkk",
+    "l1pa3h6amzhd5d46lv732h6": "ja5pjbw0xl6wz9xwthztups",
+    "6kp5i2u5lx4huw8m599c3ld": "l1pa3h6amzhd5d46lv732h6",
+    "b3esbhz1y6876nkj04zwy5g": "5tmv1gfg7n3iyvzssedcwkk",
+    "4b6n8v3gyky53bwuuwnx05h": "5tmv1gfg7n3iyvzssedcwkk",
+    "y50ij6pqcavxu8o834o4bgy": "4b6n8v3gyky53bwuuwnx05h",
+    "ycnfojglpo1lm46xwxn7zph": "4b6n8v3gyky53bwuuwnx05h",
+    "zyqk7b0jbi9z9jlam1nctmp": "5tmv1gfg7n3iyvzssedcwkk",
+    "j3ptjsb3k1bz0uhwyflfqx4": "5tmv1gfg7n3iyvzssedcwkk",
+    "57bo0bwym39oxsw122ppzrz": "j3ptjsb3k1bz0uhwyflfqx4",
+    "mhg3dw05ivmdvj7seuw67fu": "5tmv1gfg7n3iyvzssedcwkk",
+    "hk2yakbkecoyip1jv0khmip": "mhg3dw05ivmdvj7seuw67fu",
+    "9nphhg89vc67zg5yyjzlrq6": "5tmv1gfg7n3iyvzssedcwkk",
+    "tjkae9vlw7qtsimshpuwwad": null,
+    "a7v2mbr6rhgkmnr86boxnti": "tjkae9vlw7qtsimshpuwwad",
+    "tnt03zf4re4d2cehjw6ds9k": "a7v2mbr6rhgkmnr86boxnti"
+  },
+  "notesLabelById": {
+    "0lzc0dvuck7s5d6wbu012jz": "Admin",
+    "2zxhjtowvby865y7cpeeef6": "Email Signature",
+    "kkf8lxkcchfmlebdizcxrd2": "Onboading",
+    "qiw43al18pmvgl9nu2wan56": "Checklist",
+    "aan2q7m3s1xt4owfqtb9qb4": "Organization",
+    "ehrsczzltmodj2i6v83owig": "Organizational Charts and People",
+    "t4lf8cc2kvpzurjwl6pnuju": "Apps",
+    "lu1kpevz2ad8zqmizeayr9n": "Smartsheet",
+    "3siin7c7fy1pafx030cic2n": "Mondaydotcom",
+    "xk8t3c1li66ztgrr8umm4pq": "Sketch",
+    "5v96sd8ll7el90tbxx7qj64": "Work Visibility Reports",
+    "ycwu5w4i058oq8zh1cpyijv": "Resources",
+    "vgdihf414t951bcsog765u3": "Compute",
+    "jfts4cigy6lsskwk1ps5at3": "CU Boulder Summit",
+    "re3n3ua8jiu8s26om8aa38o": "Data",
+    "0skbnw9hk3715ex0fqjgckf": "Administrative Analysis Environment",
+    "klprqea0qzzzvlj81q83t69": "Central Information Warehouse",
+    "3wwnw5yrailgq75h35oeliz": "Health Data Compass",
+    "ff9djwhhiec3mexs4drebek": "Secure Data Transfer",
+    "pjgu0t7zlg0shw39reyn0jy": "Methodology",
+    "39m0rro1doueclqnax1gdpw": "Team Science",
+    "yls0qr5kl2s86kb1gem5lja": "Translational Science",
+    "mzfjmwx2d8rzoprs7gqe5mp": "Model",
+    "rjuen63qy1zg8ifectug11n": "Data Mining",
+    "6x2k7n4bgtx538q1ndb17x9": "Knowledge Discovery in Databases",
+    "lm2u1ybx2htflsamts47k3t": "Research Lifecycle",
+    "uzjqfmy7rem5zfx7yxy2bz0": "Funding",
+    "j7uwdncx7ipkq86zyv3kpbt": "Grants Management",
+    "el957bu25wfbtaukdjuer4u": "Personnel",
+    "92b7jouxy4rof6klx4wi9eq": "Communities",
+    "5922fk61gcmn7l2khb3us62": "West Big Data Innovation Hub",
+    "2npzv0koepi5gtumota9239": "Research Network",
+    "5tmv1gfg7n3iyvzssedcwkk": "Tools",
+    "fwceql72j70lrfc2swolcfa": "Build",
+    "79wfvfi51lhf7b0d8z6cbft": "Dagger",
+    "mebo859qf267oa37xdjloom": "Buildkit and Podman",
+    "8xtpfpwacou8xzvp2rlny6p": "Presentation 2022 07 07",
+    "a2269yazf508qo286jpiduz": "Project Init",
+    "pcs5yv15xuy81s7bjdsuxvw": "Python",
+    "ra5std7l9u4k030phf599ko": "Environment",
+    "ecdt6ps5k1fnxt5ahp189gw": "Data",
+    "703i6qsd6ggdkyc7mwg3cgp": "Validation",
+    "fhpqcia6cfvjdt6yjulbs0v": "Data Visualization",
+    "urgb7nmksr3izpnx82iuoxu": "Tableau and Power BI Comparison",
+    "dn8ywj7ooe135pabmcowmt5": "Diagrams",
+    "32ni6bzkrcz7jkrs3fbsega": "Mermaid",
+    "2trgt4pbjn65t1yigsqxm37": "Mermaid Style Workarounds",
+    "ebom0cwiuntl2spjvddb12p": "Documentation",
+    "kplcl3a8f7e101wf0y16dtl": "Dendron",
+    "55uhtybzlvjyf52nss8mn0f": "Create Note from Jupyter Notebook",
+    "ja5pjbw0xl6wz9xwthztups": "K8s",
+    "l1pa3h6amzhd5d46lv732h6": "Knative",
+    "6kp5i2u5lx4huw8m599c3ld": "Install",
+    "b3esbhz1y6876nkj04zwy5g": "Leaning Management",
+    "4b6n8v3gyky53bwuuwnx05h": "Linting",
+    "y50ij6pqcavxu8o834o4bgy": "Documentation",
+    "ycnfojglpo1lm46xwxn7zph": "Python",
+    "zyqk7b0jbi9z9jlam1nctmp": "Measurement",
+    "j3ptjsb3k1bz0uhwyflfqx4": "Project Management",
+    "57bo0bwym39oxsw122ppzrz": "GitHub Projects",
+    "mhg3dw05ivmdvj7seuw67fu": "Testing",
+    "hk2yakbkecoyip1jv0khmip": "Python",
+    "9nphhg89vc67zg5yyjzlrq6": "Workflow",
+    "tjkae9vlw7qtsimshpuwwad": "Training",
+    "a7v2mbr6rhgkmnr86boxnti": "Google",
+    "tnt03zf4re4d2cehjw6ds9k": "Digital Leader"
+  }
+}

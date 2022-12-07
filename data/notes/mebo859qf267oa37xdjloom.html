@@ -1,0 +1,11 @@
+<h1 id="buildkit-and-podman">Buildkit and Podman<a aria-hidden="true" class="anchor-heading icon-link" href="#buildkit-and-podman"></a></h1>
+<h2 id="summary">Summary<a aria-hidden="true" class="anchor-heading icon-link" href="#summary"></a></h2>
+<p><a href="https://docs.dagger.io/">Dagger</a> by default will attempt to use Docker installations but does not require Docker to run. Some customization without using Docker is covered on the following page: <a href="https://docs.dagger.io/1223/custom-buildkit/">Customizing your Buildkit installation</a>. The following covers how to use Dagger with containerized Buildkit using Podman.</p>
+<h2 id="steps">Steps<a aria-hidden="true" class="anchor-heading icon-link" href="#steps"></a></h2>
+<ol>
+<li><a href="https://podman.io/getting-started/installation">Install Podman</a></li>
+<li>Run Buildkit using the following, modifying as appropriate for your system: <code>podman run -d --name buildkitd --privileged -p 1234:1234 moby/buildkit:latest --addr tcp://0.0.0.0:1234</code> (<a href="https://github.com/moby/buildkit#podman">reference</a> and <a href="https://github.com/dagger/dagger/issues/1959#issuecomment-1101547522">issue for podman explicit ports</a>)</li>
+<li><a href="https://docs.dagger.io/1200/local-dev">Install Dagger</a></li>
+<li>Set BUILDKIT_HOST environment variable to podman-container://buildkit , for ex: <code>export BUILDKIT_HOST=tcp://localhost:1234</code> (<a href="https://docs.dagger.io/1223/custom-buildkit/">reference</a> and <a href="https://github.com/dagger/dagger/issues/1959#issuecomment-1101547522">issue for podman explicit ports</a>)</li>
+<li>Run Dagger commands as necessary.</li>
+</ol>

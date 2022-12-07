@@ -1,0 +1,10 @@
+<h1 id="project-init">Project Init<a aria-hidden="true" class="anchor-heading icon-link" href="#project-init"></a></h1>
+<h2 id="summary">Summary<a aria-hidden="true" class="anchor-heading icon-link" href="#summary"></a></h2>
+<p>Projects which use <a href="https://docs.dagger.io/">Dagger</a> must be initialized to include dependencies from the core library in order to run. While it's recommended to include these dependencies as part of the project (<a href="https://docs.dagger.io/1225/pushing-plan-dependencies/">reference</a>), there are sometimes many additional files included as part of this (any possible dependency is included, instead of those referenced only). See the below for getting started with a dagger project.</p>
+<h2 id="steps">Steps<a aria-hidden="true" class="anchor-heading icon-link" href="#steps"></a></h2>
+<ol>
+<li>Create a <code>&#x3C;name>.cue</code> file to include your custom Dagger work.</li>
+<li>Use command <code>dagger project init</code> from within the same dir as the cue file.</li>
+<li>There are sometimes issues with project init, and you may also need to use <code>dagger project update</code> immediately after initializing your project.</li>
+<li>Use command <code>dagger do &#x3C;action name></code> as needed.</li>
+</ol>
